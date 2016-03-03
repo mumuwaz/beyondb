@@ -45,10 +45,10 @@
      "name": "researcher",
      "children": [
       {"name": "lab researches driver car interaction", "size": 7074},
-      {"name": "fan zhang", "size": 3416}
-      {"name": "vehicle defects researchers", "size": 3416}
-      {"name": "amy prude", "size": 3416}
-      {"name": "assistant professor addresses philosophical questions", "size": 3416}
+      {"name": "fan zhang", "size": 3416},
+      {"name": "vehicle defects researchers", "size": 3416},
+      {"name": "amy prude", "size": 3416},
+      {"name": "assistant professor addresses philosophical questions", "size": 3416},
       {"name": "lithium researchers", "size": 3416}
      ]
     },
@@ -56,16 +56,14 @@
      "name": "sentiment",
      "children": [
       {"name": "award winner", "size": 7074},
-      {"name": "great research", "size": 3416}
-      {"name": "great work", "size": 3416}
-      {"name": "wow", "size": 3416}
-      {"name": "smart vt scientist", "size": 3416}
-      {"name": "interdisciplinary", "size": 3416}
+      {"name": "great research", "size": 3416},
+      {"name": "great work", "size": 3416},
+      {"name": "wow", "size": 3416},
+      {"name": "smart vt scientist", "size": 3416},
+      {"name": "interdisciplinary", "size": 3416},
       {"name": "economic impact", "size": 3416}
      ]
-    },
-   ]
-  },
+   },
   {
    "name": "animate",
    "children": [
