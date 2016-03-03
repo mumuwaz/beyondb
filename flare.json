@@ -1,5 +1,5 @@
 {
- "name": "Virgina Tech",
+ "name": "VTech",
  "children": [
   {
    "name": "research",
@@ -8,9 +8,8 @@
      "name": "research institute",
      "children": [
       {"name": "virginia tech carilion", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "virginia tech vsu", "size": 3812},
+      {"name": "virginia johnson", "size": 3812}
      ]
     },
     {
@@ -25,17 +24,13 @@
       {"name": "reimagine research", "size": 3416},
       {"name": "flint", "size": 3416},
       {"name": "giant virtual reality research room + cube", "size": 3416},
-      {"name": "india + tech researchers ", "size": 3416},
       {"name": "wireless communications", "size": 3416},
       {"name": "cancer research", "size": 3416},
       {"name": "brain research", "size": 3416},
       {"name": "research study auto manufacturers", "size": 3416},
       {"name": "malaria parasite", "size": 3416},
-      {"name": "navy", "size": 5103},
-      {"name": "nih", "size": 3677},
       {"name": "mosquito genome", "size": 781},
       {"name": "school lunches healthier", "size": 4141},
-      {"name": "rolls royce", "size": 933},
       {"name": "researchers unveil robotic jellyfish design", "size": 5130},
       {"name": "alternative energy production", "size": 3617},
       {"name": "augusta free", "size": 3240}
@@ -49,7 +44,17 @@
       {"name": "vehicle defects researchers", "size": 3416},
       {"name": "amy prude", "size": 3416},
       {"name": "assistant professor addresses philosophical questions", "size": 3416},
-      {"name": "lithium researchers", "size": 3416}
+      {"name": "lithium researchers", "size": 3416},
+      {"name": "india + tech researchers ", "size": 3416}
+     ]
+    },
+    {
+     "name": "resources",
+     "children": [
+      {"name": "navy", "size": 5103},
+      {"name": "nih", "size": 3677},
+      {"name": "nsf", "size": 3677},
+      {"name": "rolls royce", "size": 933}
      ]
     },
     {
@@ -61,7 +66,9 @@
       {"name": "wow", "size": 3416},
       {"name": "smart vt scientist", "size": 3416},
       {"name": "interdisciplinary", "size": 3416},
-      {"name": "economic impact", "size": 3416}
+      {"name": "economic impact", "size": 3416},
+      {"name": "new research", "size": 3416},
+      {"name": "delight", "size": 3416}
      ]
     }
    ]
