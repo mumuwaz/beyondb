@@ -80,7 +80,7 @@
      "children": [
       {"name": "seung hui cho", "size": 3938},
       {"name": "april", "size": 3812},
-      {"name": "remembrance", "size": 3812}
+      {"name": "remembrance", "size": 3812},
       {"name": "victim calls", "size": 3812}
      ]
     },
@@ -94,7 +94,7 @@
       {"name": "beautiful campus", "size": 2202},
       {"name": "walk", "size": 1382},
       {"name": "hogwarts", "size": 1629},
-      {"name": "woods", "size": 1675},
+      {"name": "woods", "size": 1675}
      ]
     },
     {
@@ -103,13 +103,13 @@
       {"name": "chick fil", "size": 1983},
       {"name": "campus food", "size": 2047},
       {"name": "hey campaign", "size": 1375},
-      "name": "vote", "size": 1375},
+      {"name": "vote", "size": 1375},
       {"name": "dr gene deisinger", "size": 8746},
       {"name": "happiest students", "size": 2202},
       {"name": "hokie", "size": 1382},
       {"name": "excited", "size": 1629},
       {"name": "great weekend", "size": 1675},
-      {"name": "good day", "size": 2042}
+      {"name": "good day", "size": 2042},
       {"name": "love virginia tech", "size": 1375}
      ]
     },
