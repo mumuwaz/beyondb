@@ -63,7 +63,9 @@
       {"name": "interdisciplinary", "size": 3416},
       {"name": "economic impact", "size": 3416}
      ]
-   },
+    }
+   ]
+  },
   {
    "name": "animate",
    "children": [
