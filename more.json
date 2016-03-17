@@ -1,0 +1,336 @@
+{
+ "name": "Virginia Tech",
+ "children": [
+  {
+   "name": "Research",
+   "children": [
+    {
+     "name": "Institutes",
+     "children": [
+      {"name": "virginia tech carilion", "size": 3938},
+      {"name": "virginia tech vsu", "size": 3812},
+      {"name": "virginia johnson", "size": 3812}
+     ]
+    },
+    {
+     "name": "Projects",
+     "children": [
+      {"name": "augusta free", "size": 3534},
+      {"name": "drone research", "size": 5731},
+      {"name": "cerebral palsy", "size": 7840},
+      {"name": "hydrogen fuel productions", "size": 5914},
+      {"name": "lerman tech", "size": 3416},
+      {"name": "lhydrogen fuel", "size": 3416},
+      {"name": "reimagine research", "size": 3416},
+      {"name": "flint", "size": 3416},
+      {"name": "giant virtual reality research room + cube", "size": 3416},
+      {"name": "wireless communications", "size": 3416},
+      {"name": "cancer research", "size": 3416},
+      {"name": "brain research", "size": 3416},
+      {"name": "research study auto manufacturers", "size": 3416},
+      {"name": "malaria parasite", "size": 3416},
+      {"name": "mosquito genome", "size": 781},
+      {"name": "school lunches healthier", "size": 4141},
+      {"name": "researchers unveil robotic jellyfish design", "size": 5130},
+      {"name": "alternative energy production", "size": 3617},
+      {"name": "augusta free", "size": 3240}
+     ]
+    },
+    {
+     "name": "Researcher",
+     "children": [
+      {"name": "lab researches driver car interaction", "size": 7074},
+      {"name": "fan zhang", "size": 3416},
+      {"name": "vehicle defects researchers", "size": 3416},
+      {"name": "amy prude", "size": 3416},
+      {"name": "assistant professor addresses philosophical questions", "size": 3416},
+      {"name": "lithium researchers", "size": 3416},
+      {"name": "india + tech researchers ", "size": 3416}
+     ]
+    },
+    {
+     "name": "Resources",
+     "children": [
+      {"name": "navy", "size": 5103},
+      {"name": "nih", "size": 3677},
+      {"name": "nsf", "size": 3677},
+      {"name": "rolls royce", "size": 933}
+     ]
+    },
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "award winner", "size": 7074},
+      {"name": "great research", "size": 3416},
+      {"name": "great work", "size": 3416},
+      {"name": "wow", "size": 3416},
+      {"name": "smart vt scientist", "size": 3416},
+      {"name": "interdisciplinary", "size": 3416},
+      {"name": "economic impact", "size": 3416},
+      {"name": "new research", "size": 3416},
+      {"name": "delight", "size": 3416}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Campous",
+   "children": [
+    {"name": "campous safety",
+     "children": [
+      {"name": "seung hui cho", "size": 3938},
+      {"name": "april", "size": 3812},
+      {"name": "remembrance", "size": 3812},
+      {"name": "victim calls", "size": 3812}
+     ]
+    },
+    {
+     "name": "Campous look",
+     "children": [
+      {"name": "campus tour", "size": 1983},
+      {"name": "nice campus", "size": 2047},
+      {"name": "loving", "size": 1375},
+      {"name": "prettiest campus", "size": 8746},
+      {"name": "beautiful campus", "size": 2202},
+      {"name": "walk", "size": 1382},
+      {"name": "hogwarts", "size": 1629},
+      {"name": "woods", "size": 1675}
+     ]
+    },
+    {
+     "name": "Campous activity",
+     "children": [
+      {"name": "chick fil", "size": 1983},
+      {"name": "campus food", "size": 2047},
+      {"name": "hey campaign", "size": 1375},
+      {"name": "vote", "size": 1375},
+      {"name": "dr gene deisinger", "size": 8746},
+      {"name": "happiest students", "size": 2202},
+      {"name": "hokie", "size": 1382},
+      {"name": "excited", "size": 1629},
+      {"name": "great weekend", "size": 1675},
+      {"name": "good day", "size": 2042},
+      {"name": "love virginia tech", "size": 1375}
+     ]
+    },
+    {
+     "name": "Other universities",
+     "children": [
+      {"name": "georgia tech", "size": 1983},
+      {"name": "uva", "size": 1375},
+      {"name": "jmu", "size": 1375}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Affordability",
+   "children": [
+    {
+     "name": "Tuition",
+     "children": [
+      {"name": "board approves tuition fee hikes", "size": 721},
+      {"name": "summer courses", "size": 4294},
+      {"name": "music tuition", "size": 9800},
+      {"name": "tuition payments", "size": 1314},
+      {"name": "montgomery co va + public school budget 121m", "size": 2220},
+      {"name": "FAFSA", "size": 2220},
+      {"name": "pretty realistic 8k", "size": 2220}
+     ]
+    },
+    {
+     "name": "Cost",
+     "children": [
+      {"name": "health insurancescam cost", "size": 721},
+      {"name": "affordable veterinary schools", "size": 4294},
+      {"name": "high tech machinery + affordable prices", "size": 4294},
+      {"name": "top 25 + affordability educational", "size": 4294},
+      {"name": "affordable rate + courses certificate programs ", "size": 2220}
+     ]
+    },
+    {
+     "name": "Scholarship",
+     "children": [
+      {"name": "rotc scholarship+amazing opportunity", "size": 721},
+      {"name": "full tuition army", "size": 4294},
+      {"name": "stamps scholars", "size": 9800},
+      {"name": "financial aid", "size": 1314},
+      {"name": "full sholarship + stephen curry", "size": 1314},
+      {"name": "promotes scholarship+ itt tech +uva +vcu", "size": 1314},
+      {"name": "deadline ems training scholarships", "size": 1314}
+     ]
+    },
+    {
+     "name": "Complain",
+     "children": [
+      {"name": "sig ep frat house + tuition payin", "size": 721},
+      {"name": "building frozen", "size": 4294},
+      {"name": "out of state + state tuition cries", "size": 9800},
+      {"name": "college tuition inflation", "size": 1314},
+      {"name": "clemson virginia tech + high tuition rates", "size": 2220}
+     ]
+    },
+    {
+     "name": "related universities",
+     "children": [
+      {"name": "uncc", "size": 721},
+      {"name": "clemson", "size": 4294},
+      {"name": "rutgers", "size": 9800},
+      {"name": "college tuition inflation", "size": 1314},
+      {"name": "clemson virginia tech + high tuition rates", "size": 2220}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Faculty",
+   "children": [
+    {"name": "Department & Projects",
+     "children": [
+      {"name": "simone paterso + diametric", "size": 3938},
+      {"name": "kevin shinpaugh vbi it ", "size": 3812},
+      {"name": "virginia tech mfa", "size": 3812},
+      {"name": "victim calls", "size": 3812}, 
+      {"name": "science faculty", "size": 1732},
+      {"name": "mechanical engineering", "size": 3623},
+      {"name": "engineering professor + marc edwards ", "size": 10066},
+      {"name": "urban forestry professor", "size": 1732},
+      {"name": "virginia tech tree + john seiler", "size": 3623},
+      {"name": "engr ed phd + lisa mcnair vt engr ed ", "size": 10066},
+      {"name": "sam riley + water quality", "size": 10066},
+      {"name": "pamplin", "size": 10066},
+      {"name": "history professor", "size": 10066},
+      {"name": "troops", "size": 10066},
+      {"name": "music faculty", "size": 10066},
+      {"name": "math professor", "size": 2220},
+      {"name": "bruegger + faculty members", "size": 2220}       
+     ]
+    },
+    {
+     "name": "Professor",
+     "children": [
+      {"name": "jeff mann", "size": 721},
+      {"name": "prof nikki giovanni", "size": 4294},
+      {"name": "sam riley", "size": 4294},
+      {"name": "stephen salaita", "size": 4294},
+      {"name": "scott king", "size": 2220},
+      {"name": "kevin shinpaugh", "size": 2220}        
+     ]
+    }, 
+    {
+     "name": "Title",
+     "children": [
+      {"name": "foley scholar", "size": 721},
+      {"name": "advancement + new professor", "size": 4294},
+      {"name": "professor emeritus", "size": 4294},
+      {"name": "assistant professor", "size": 4294},
+      {"name": "associate professor", "size": 4294}      
+     ]
+    }, 
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "enjoying", "size": 721},
+      {"name": "cool + econtent ebooks", "size": 4294},
+      {"name": "awesome professor", "size": 4294},
+      {"name": "clear career ladder", "size": 4294},
+      {"name": "advice", "size": 2220}
+     ]
+    },
+    {
+     "name": "Activity",
+     "children": [
+      {"name": "casey trees + competition", "size": 721},
+      {"name": "startup readiness workshop", "size": 4294},
+      {"name": "happy team sleep + faculty party", "size": 4294},
+      {"name": "ambler johnston + q3 + great time + winner", "size": 4294},
+      {"name": "affordable rate + courses certificate programs ", "size": 2220},
+      {"name": "congrats + visual + black faculty", "size": 2220},
+      {"name": "congratulations + rt derek hyra", "size": 2220},
+      {"name": "security personnel + not trained", "size": 2220}      
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Education",
+   "children": [
+    {
+     "name": "Educator",
+     "children": [
+      {"name": "Terry mcauliffe", "size": 721},
+      {"name": "Ken Cuccinelli", "size": 4294},
+      {"name": "social commentator", "size": 9800},
+      {"name": "Adam gopnik", "size": 1314},
+      {"name": "Physician assis", "size": 2220},
+      {"name": "Physician", "size": 2220},
+      {"name": "Sen. Edwards", "size": 2220},
+      {"name": "erv blythe vp emeritus", "size": 2220}
+     ]
+    },
+    {
+     "name": "Organization",
+     "children": [
+      {"name": "VCSSE", "size": 721},
+      {"name": "SWVAWC", "size": 4294},
+      {"name": "Virginia tech carilion", "size": 4294},
+      {"name": "ymca", "size": 4294},
+      {"name": "Steger center", "size": 4294},
+      {"name": "VTGI", "size": 2220}
+     ]
+    },
+    {
+     "name": "Program",
+     "children": [
+      {"name": "sudan", "size": 721},
+      {"name": "tech education", "size": 4294},
+      {"name": "itt tech", "size": 9800},
+      {"name": "STEM", "size": 1314},
+      {"name": "nutrition education", "size": 1314},
+      {"name": "uxies", "size": 1314},
+      {"name": "engineering education", "size": 1314},
+      {"name": "graduate education", "size": 1314},
+      {"name": "education birds", "size": 1314}
+     ]
+    },
+    {
+     "name": "Activity",
+     "children": [
+      {"name": "free talk", "size": 721},
+      {"name": "studies", "size": 4294},
+      {"name": "contest", "size": 9800},
+      {"name": "hear", "size": 1314},
+      {"name": "virginia cooperative", "size": 2220},
+      {"name": "bring tech talent to Fairfax", "size": 2220},
+      {"name": "free fitness", "size": 2220},
+      {"name": "healthy kids", "size": 2220},
+      {"name": "emergency management", "size": 2220},
+      {"name": "interactive educational app", "size": 1314},
+      {"name": "plucking", "size": 2220}
+     ]
+    },
+    {
+     "name": "Other",
+     "children": [
+      {"name": "educational skills", "size": 721},
+      {"name": "scouts", "size": 4294},
+      {"name": "real vaccine", "size": 9800},
+      {"name": "long scientific stud", "size": 1314},
+      {"name": "consumer reports", "size": 2220}
+     ]
+    },   
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "great education", "size": 721},
+      {"name": "tech talent", "size": 4294},
+      {"name": "strong supporter", "size": 9800},
+      {"name": "attract", "size": 1314},
+      {"name": "interactive", "size": 1314},
+      {"name": "education accreditation", "size": 2220}
+     ]
+    }
+   ]
+  }
+ ]
+}
