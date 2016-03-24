@@ -76,7 +76,8 @@
   {
    "name": "Campus",
    "children": [
-    {"name": "campus safety",
+    {
+     "name": "campus safety",
      "children": [
       {"name": "seung hui cho", "size": 3938},
       {"name": "april", "size": 3812},
@@ -473,9 +474,9 @@
      "name": "Sentiment",
      "children": [
       {"name": "great opportunity", "size": 4294}
-     ]
-    }
-   ]
-  }
- ]
-}
+      ]
+     }
+    ]
+   }
+  ] 
+ }
