@@ -361,8 +361,7 @@
      "children": [
       {"name": "china", "size": 721},
       {"name": "india", "size": 4294},
-      {"name": "korea", "size": 9800},
-      {"name": "climactic amp geologic diversity", "size": 1314}
+      {"name": "korea", "size": 9800}
      ]
     },
     {
@@ -386,7 +385,7 @@
      ]
     },
     {
-     "name": "Concerns",
+     "name": "Issues",
      "children": [
       {"name": "faculty diversitys", "size": 721},
       {"name": "black student s', current situation", "size": 4294},
@@ -397,6 +396,7 @@
       {"name": "transgender discrimination restructures diversity initiatives", "size": 2220},
       {"name": "speech amp diversity", "size": 9800}, 
       {"name": "tech industry diversity", "size": 2220},
+      {"name": "climactic amp geologic diversity", "size": 1314}
       {"name": "gender diversity", "size": 2220}
      ]
     },   
