@@ -286,11 +286,11 @@
     {
      "name": "Activity",
      "children": [
-      {"name": "international students, different nations", "size": 721},
+      {"name": "international students different nations", "size": 721},
       {"name": "wireless virginia tec", "size": 4294},
       {"name": "new international research partnership", "size": 9800},
       {"name": "summer sessions", "size": 1314},
-      {"name": "university's efforts", "size": 2220},
+      {"name": "university efforts", "size": 2220},
       {"name": "annual international street fair", "size": 2220},
       {"name": "diversity litmus test", "size": 2220},
       {"name": "promotes diversity business", "size": 2220},
@@ -307,7 +307,7 @@
      "name": "Issues",
      "children": [
       {"name": "faculty diversitys", "size": 721},
-      {"name": "black student s', current situation", "size": 4294},
+      {"name": "black student current situation", "size": 4294},
       {"name": "workplace diversity", "size": 9800},
       {"name": "tech tmrw", "size": 1314},
       {"name": "faculty careers", "size": 2220},
