@@ -250,7 +250,233 @@
      ]
     }
    ]
+  },
+  {
+   "name": "Diversity",
+   "children": [
+    {
+     "name": "People",
+     "children": [
+      {"name": "chief diversity officer", "size": 721},
+      {"name": "james dunsmuir, columbia", "size": 4294},
+      {"name": "karen eley sanders", "size": 9800},
+      {"name": "senior advisor vice provost", "size": 1314},
+      {"name": "tech industry diversity angel investor, ceo tien wong", "size": 2220},
+      {"name": "scientists amazon", "size": 2220},
+      {"name": "kathey porter assistant director", "size": 2220},
+      {"name": "catherine rampnell tech", "size": 2220}        
+     ]
+    },
+    {
+     "name": "Organization",
+     "children": [
+      {"name": "hamptonu team", "size": 721},
+      {"name": "alpha kappa psi cc _laitano", "size": 4294},
+      {"name": "Virginia tech carilion", "size": 4294}
+     ]
+    },
+    {
+     "name": "Country",
+     "children": [
+      {"name": "china", "size": 721},
+      {"name": "india", "size": 4294},
+      {"name": "korea", "size": 9800}
+     ]
+    },
+    {
+     "name": "Activity",
+     "children": [
+      {"name": "international students, different nations", "size": 721},
+      {"name": "wireless virginia tec", "size": 4294},
+      {"name": "new international research partnership", "size": 9800},
+      {"name": "summer sessions", "size": 1314},
+      {"name": "university's efforts", "size": 2220},
+      {"name": "annual international street fair", "size": 2220},
+      {"name": "diversity litmus test", "size": 2220},
+      {"name": "promotes diversity business", "size": 2220},
+      {"name": "tech industry diversity", "size": 2220},
+      {"name": "diversity workshop", "size": 1314},
+      {"name": "undergraduate research symposium", "size": 2220},
+      {"name": "diversity banquet, hyatt", "size": 721},
+      {"name": "diversity competition", "size": 4294},
+      {"name": "diversity efforts new organizational structure", "size": 1314},     
+      {"name": "tech diversity student summit", "size": 2220},   
+     ]
+    },
+    {
+     "name": "Issues",
+     "children": [
+      {"name": "faculty diversitys", "size": 721},
+      {"name": "black student s', current situation", "size": 4294},
+      {"name": "workplace diversity", "size": 9800},
+      {"name": "tech tmrw", "size": 1314},
+      {"name": "faculty careers", "size": 2220},
+      {"name": "racial diversity", "size": 2220},
+      {"name": "transgender discrimination restructures diversity initiatives", "size": 2220},
+      {"name": "speech amp diversity", "size": 9800}, 
+      {"name": "tech industry diversity", "size": 2220},
+      {"name": "climactic amp geologic diversity", "size": 1314}
+      {"name": "gender diversity", "size": 2220}
+     ]
+    },   
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "interesting", "size": 721},
+      {"name": "lovely diversity", "size": 4294},
+      {"name": "inspiring", "size": 9800},
+      {"name": "promotes diversity", "size": 1314},
+      {"name": "strong thoughtful proposals", "size": 1314},
+      {"name": "embraces inclusivity", "size": 2220}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "International",
+   "children": [
+    {
+     "name": "People",
+     "children": [
+      {"name": "international students", "size": 721},
+      {"name": "international tech educators", "size": 4294},
+      {"name": "anusha rizvi", "size": 9800},
+      {"name": "jeff reed, international award", "size": 1314}
+     ]
+    },
+    {
+     "name": "Organization",
+     "children": [
+      {"name": "fishing communities virginia tech", "size": 721},
+      {"name": "international research team", "size": 4294},
+      {"name": "wildlife conservation program", "size": 4294},
+      {"name": "international fashion major", "size": 4294},
+      {"name": "vehicle research groups", "size": 4294}
+     ]
+    },
+    {
+     "name": "Program",
+     "children": [
+      {"name": "rolls royce, domestic international internships", "size": 721},
+      {"name": "veterinary, student gains, international perspective", "size": 4294},
+      {"name": "international program leadership", "size": 9800},
+      {"name": "international florida southern virginia tech", "size": 1314},
+      {"name": "sick spread disease, international research team", "size": 2220},
+      {"name": "international center, jet propulsion, gas turbine research", "size": 1314}
+     ]
+    },
+    {
+     "name": "Activity",
+     "children": [
+      {"name": "international battle, paper airplanes", "size": 721},  
+      {"name": "international street fair", "size": 9800},
+      {"name": "burruss, international flags", "size": 1314},
+      {"name": "anusha rizvi, boren scholarship', international study", "size": 2220},
+      {"name": "haitian heirloom seed, bank project, international competition", "size": 2220},
+      {"name": "international soil judging conference", "size": 2220},
+      {"name": "indian international student shares", "size": 2220},
+      {"name": "international workshop, cognition computation", "size": 2220},  
+      {"name": "electrical engineering student teams, international competition", "size": 2220}     
+     ]
+    },
+    {
+     "name": "Status",
+     "children": [
+      {"name": "vast international population", "size": 721},
+      {"name": "international efforts", "size": 4294},
+      {"name": "international effort, address gaps", "size": 4294},
+      {"name": "international studies", "size": 2220}       
+     ]
+    },   
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "vast international population", "size": 721},
+      {"name": "great opportunity", "size": 4294}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Diversity",
+   "children": [
+    {
+     "name": "People",
+     "children": [
+      {"name": "chief diversity officer", "size": 721},
+      {"name": "james dunsmuir, columbia", "size": 4294},
+      {"name": "karen eley sanders", "size": 9800},
+      {"name": "senior advisor vice provost", "size": 1314},
+      {"name": "tech industry diversity angel investor, ceo tien wong", "size": 2220},
+      {"name": "scientists amazon", "size": 2220},
+      {"name": "kathey porter assistant director", "size": 2220},
+      {"name": "catherine rampnell tech", "size": 2220}        
+     ]
+    },
+    {
+     "name": "Organization",
+     "children": [
+      {"name": "hamptonu team", "size": 721},
+      {"name": "alpha kappa psi cc _laitano", "size": 4294},
+      {"name": "Virginia tech carilion", "size": 4294}
+     ]
+    },
+    {
+     "name": "Country",
+     "children": [
+      {"name": "china", "size": 721},
+      {"name": "india", "size": 4294},
+      {"name": "korea", "size": 9800}
+     ]
+    },
+    {
+     "name": "Activity",
+     "children": [
+      {"name": "international students, different nations", "size": 721},
+      {"name": "wireless virginia tec", "size": 4294},
+      {"name": "new international research partnership", "size": 9800},
+      {"name": "summer sessions", "size": 1314},
+      {"name": "university's efforts", "size": 2220},
+      {"name": "annual international street fair", "size": 2220},
+      {"name": "diversity litmus test", "size": 2220},
+      {"name": "promotes diversity business", "size": 2220},
+      {"name": "tech industry diversity", "size": 2220},
+      {"name": "diversity workshop", "size": 1314},
+      {"name": "undergraduate research symposium", "size": 2220},
+      {"name": "diversity banquet, hyatt", "size": 721},
+      {"name": "diversity competition", "size": 4294},
+      {"name": "diversity efforts new organizational structure", "size": 1314},     
+      {"name": "tech diversity student summit", "size": 2220},   
+     ]
+    },
+    {
+     "name": "Issues",
+     "children": [
+      {"name": "faculty diversitys", "size": 721},
+      {"name": "black student s', current situation", "size": 4294},
+      {"name": "workplace diversity", "size": 9800},
+      {"name": "tech tmrw", "size": 1314},
+      {"name": "faculty careers", "size": 2220},
+      {"name": "racial diversity", "size": 2220},
+      {"name": "transgender discrimination restructures diversity initiatives", "size": 2220},
+      {"name": "speech amp diversity", "size": 9800}, 
+      {"name": "tech industry diversity", "size": 2220},
+      {"name": "climactic amp geologic diversity", "size": 1314}
+      {"name": "gender diversity", "size": 2220}
+     ]
+    },   
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "interesting", "size": 721},
+      {"name": "lovely diversity", "size": 4294},
+      {"name": "inspiring", "size": 9800},
+      {"name": "promotes diversity", "size": 1314},
+      {"name": "strong thoughtful proposals", "size": 1314},
+      {"name": "embraces inclusivity", "size": 2220}
+     ]
+    }
+   ]
   }
  ]
 }
-
