@@ -186,7 +186,8 @@
   {
    "name": "Faculty",
    "children": [
-    {"name": "Department & Projects",
+    {
+     "name": "Department & Projects",
      "children": [
       {"name": "simone paterso + diametric", "size": 3938},
       {"name": "kevin shinpaugh vbi it ", "size": 3812},
@@ -473,6 +474,7 @@
     {
      "name": "Sentiment",
      "children": [
+      {"name": "vast international population", "size": 721},
       {"name": "great opportunity", "size": 4294}
      ]
     }
