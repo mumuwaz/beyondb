@@ -74,10 +74,9 @@
    ]
   },
   {
-   "name": "Campus",
+   "name": "Campous",
    "children": [
-    {
-     "name": "campus safety",
+    {"name": "campous safety",
      "children": [
       {"name": "seung hui cho", "size": 3938},
       {"name": "april", "size": 3812},
@@ -86,7 +85,7 @@
      ]
     },
     {
-     "name": "Campus look",
+     "name": "Campous look",
      "children": [
       {"name": "campus tour", "size": 1983},
       {"name": "nice campus", "size": 2047},
@@ -99,7 +98,7 @@
      ]
     },
     {
-     "name": "Campus activity",
+     "name": "Campous activity",
      "children": [
       {"name": "chick fil", "size": 1983},
       {"name": "campus food", "size": 2047},
@@ -162,7 +161,7 @@
      ]
     },
     {
-     "name": "Complain",
+     "name": "Complaint",
      "children": [
       {"name": "sig ep frat house + tuition payin", "size": 721},
       {"name": "building frozen", "size": 4294},
@@ -172,22 +171,20 @@
      ]
     },
     {
-     "name": "related universities",
+     "name": "Related universities",
      "children": [
       {"name": "uncc", "size": 721},
       {"name": "clemson", "size": 4294},
       {"name": "rutgers", "size": 9800},
-      {"name": "college tuition inflation", "size": 1314},
       {"name": "clemson virginia tech + high tuition rates", "size": 2220}
      ]
     }
    ]
   },
   {
-   "name": "Faculty",
+   "name": "Falculty",
    "children": [
-    {
-     "name": "Department & Projects",
+    {"name": "Department & Projects",
      "children": [
       {"name": "simone paterso + diametric", "size": 3938},
       {"name": "kevin shinpaugh vbi it ", "size": 3812},
@@ -205,7 +202,7 @@
       {"name": "troops", "size": 10066},
       {"name": "music faculty", "size": 10066},
       {"name": "math professor", "size": 2220},
-      {"name": "bruegger + faculty members", "size": 2220}       
+      {"name": "bruegger + faculty members", "size": 2220}
      ]
     },
     {
@@ -255,93 +252,13 @@
    ]
   },
   {
-   "name": "Education",
-   "children": [
-    {
-     "name": "Educator",
-     "children": [
-      {"name": "Terry mcauliffe", "size": 721},
-      {"name": "Ken Cuccinelli", "size": 4294},
-      {"name": "social commentator", "size": 9800},
-      {"name": "Adam gopnik", "size": 1314},
-      {"name": "Physician assis", "size": 2220},
-      {"name": "Physician", "size": 2220},
-      {"name": "Sen. Edwards", "size": 2220},
-      {"name": "erv blythe vp emeritus", "size": 2220}
-     ]
-    },
-    {
-     "name": "Organization",
-     "children": [
-      {"name": "VCSSE", "size": 721},
-      {"name": "SWVAWC", "size": 4294},
-      {"name": "Virginia tech carilion", "size": 4294},
-      {"name": "ymca", "size": 4294},
-      {"name": "Steger center", "size": 4294},
-      {"name": "VTGI", "size": 2220}
-     ]
-    },
-    {
-     "name": "Program",
-     "children": [
-      {"name": "sudan", "size": 721},
-      {"name": "tech education", "size": 4294},
-      {"name": "itt tech", "size": 9800},
-      {"name": "STEM", "size": 1314},
-      {"name": "nutrition education", "size": 1314},
-      {"name": "uxies", "size": 1314},
-      {"name": "engineering education", "size": 1314},
-      {"name": "graduate education", "size": 1314},
-      {"name": "education birds", "size": 1314}
-     ]
-    },
-    {
-     "name": "Activity",
-     "children": [
-      {"name": "free talk", "size": 721},
-      {"name": "studies", "size": 4294},
-      {"name": "contest", "size": 9800},
-      {"name": "hear", "size": 1314},
-      {"name": "virginia cooperative", "size": 2220},
-      {"name": "bring tech talent to Fairfax", "size": 2220},
-      {"name": "free fitness", "size": 2220},
-      {"name": "healthy kids", "size": 2220},
-      {"name": "emergency management", "size": 2220},
-      {"name": "interactive educational app", "size": 1314},
-      {"name": "plucking", "size": 2220}
-     ]
-    },
-    {
-     "name": "Other",
-     "children": [
-      {"name": "educational skills", "size": 721},
-      {"name": "scouts", "size": 4294},
-      {"name": "real vaccine", "size": 9800},
-      {"name": "long scientific stud", "size": 1314},
-      {"name": "consumer reports", "size": 2220}
-     ]
-    },   
-    {
-     "name": "Sentiment",
-     "children": [
-      {"name": "great education", "size": 721},
-      {"name": "tech talent", "size": 4294},
-      {"name": "strong supporter", "size": 9800},
-      {"name": "attract", "size": 1314},
-      {"name": "interactive", "size": 1314},
-      {"name": "education accreditation", "size": 2220}
-     ]
-    }
-   ]
-  },
-  {
    "name": "Diversity",
    "children": [
     {
      "name": "People",
      "children": [
       {"name": "chief diversity officer", "size": 721},
-      {"name": "james dunsmuir, columbia", "size": 4294},
+      {"name": "james dunsmuir columbia", "size": 4294},
       {"name": "karen eley sanders", "size": 9800},
       {"name": "senior advisor vice provost", "size": 1314},
       {"name": "tech industry diversity angel investor, ceo tien wong", "size": 2220},
@@ -369,11 +286,11 @@
     {
      "name": "Activity",
      "children": [
-      {"name": "international students, different nations", "size": 721},
+      {"name": "international students different nations", "size": 721},
       {"name": "wireless virginia tec", "size": 4294},
       {"name": "new international research partnership", "size": 9800},
       {"name": "summer sessions", "size": 1314},
-      {"name": "university's efforts", "size": 2220},
+      {"name": "university efforts", "size": 2220},
       {"name": "annual international street fair", "size": 2220},
       {"name": "diversity litmus test", "size": 2220},
       {"name": "promotes diversity business", "size": 2220},
@@ -383,14 +300,14 @@
       {"name": "diversity banquet, hyatt", "size": 721},
       {"name": "diversity competition", "size": 4294},
       {"name": "diversity efforts new organizational structure", "size": 1314},     
-      {"name": "tech diversity student summit", "size": 2220},   
+      {"name": "tech diversity student summit", "size": 2220} 
      ]
     },
     {
      "name": "Issues",
      "children": [
       {"name": "faculty diversitys", "size": 721},
-      {"name": "black student s', current situation", "size": 4294},
+      {"name": "black student current situation", "size": 4294},
       {"name": "workplace diversity", "size": 9800},
       {"name": "tech tmrw", "size": 1314},
       {"name": "faculty careers", "size": 2220},
@@ -398,7 +315,7 @@
       {"name": "transgender discrimination restructures diversity initiatives", "size": 2220},
       {"name": "speech amp diversity", "size": 9800}, 
       {"name": "tech industry diversity", "size": 2220},
-      {"name": "climactic amp geologic diversity", "size": 1314}
+      {"name": "climactic amp geologic diversity", "size": 1314},
       {"name": "gender diversity", "size": 2220}
      ]
     },   
@@ -474,11 +391,303 @@
     {
      "name": "Sentiment",
      "children": [
-      {"name": "vast international population", "size": 721},
       {"name": "great opportunity", "size": 4294}
      ]
     }
    ]
+  },
+  {
+   "name": "VTBeyond",
+   "children": [
+    {
+     "name": "People",
+     "children": [
+      {"name": "Dr. Mary Sue Coleman", "size": 721},
+      {"name": "university community", "size": 4294},
+      {"name": "entrep students", "size": 9800},
+      {"name": "kaley burlingame", "size": 1314},
+      {"name": "brene brown", "size": 721},
+      {"name": "committee member", "size": 4294},
+      {"name": "undergraduates _tech", "size": 9800},
+      {"name": "prof. falconier", "size": 1314}    
+     ]
+    },
+    {
+     "name": "Organization",
+     "children": [
+      {"name": "town hall", "size": 721},
+      {"name": "rt vt + commonwealth", "size": 4294}
+     ]
+    },
+    {
+     "name": "Program",
+     "children": [
+      {"name": "insidehigherED", "size": 721},
+      {"name": "ath major", "size": 4294},
+      {"name": "art major", "size": 9800},
+      {"name": "new undergraduate biology course", "size": 1314},
+      {"name": "neuroscience", "size": 2220}
+     ]
+    },
+    {
+     "name": "Activity",
+     "children": [
+      {"name": "new undergraduate biology course", "size": 721},  
+      {"name": "intersectional diversity", "size": 9800},
+      {"name": "campus technology", "size": 1314},
+      {"name": "co chair + visit", "size": 2220},
+      {"name": "info check", "size": 2220},
+      {"name": "residential learning", "size": 2220},
+      {"name": "uplifting black men", "size": 2220},  
+      {"name": "diversity workshop", "size": 2220}, 
+      {"name": "ted talk + vulnerability + power", "size": 2220},
+      {"name": "video game opera", "size": 2220},
+      {"name": "reinvent itself", "size": 2220},
+      {"name": "operacraft", "size": 2220},  
+      {"name": "diversity workshop", "size": 2220},
+      {"name": "virginia tech will lure", "size": 2220},  
+      {"name": "video game opera ", "size": 2220}      
+     ]
+    },
+    {
+     "name": "Other",
+     "children": [
+      {"name": "data", "size": 721},
+      {"name": "destination areas", "size": 4294},
+      {"name": "career", "size": 4294},
+      {"name": "highered", "size": 4294},
+      {"name": "work zone", "size": 2220}       
+     ]
+    },   
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "wonderful", "size": 4294},
+      {"name": "congratulations", "size": 4294},
+      {"name": "experience", "size": 2220},
+      {"name": "welcome", "size": 2220}        
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Design",
+   "children": [
+    {
+     "name": "People",
+     "children": [
+      {"name": "university researchers", "size": 721},
+      {"name": "industrial design students", "size": 4294},
+      {"name": "visitors", "size": 9800},
+      {"name": "high school team", "size": 1314} 
+     ]
+    },
+    {
+     "name": "Organization",
+     "children": [
+      {"name": "nra", "size": 721},
+      {"name": "cfs student competition", "size": 4294},
+      {"name": "nasa", "size": 1314},
+      {"name": "futureHaus", "size": 721},
+      {"name": "css virginia", "size": 4294},
+      {"name": "nyc", "size": 9800},
+      {"name": "usaf", "size": 1314}  
+     ]
+    },
+    {
+     "name": "Program",
+     "children": [
+      {"name": "architecture", "size": 721},
+      {"name": "industrial design program", "size": 4294},
+      {"name": "short course", "size": 9800},
+      {"name": "isri convention", "size": 1314}
+     ]
+    },
+    {
+     "name": "Project",
+     "children": [
+      {"name": "futuristic kitchen", "size": 721},  
+      {"name": "automation comes", "size": 9800},
+      {"name": "design buildlab", "size": 1314},
+      {"name": "robotic jellyfish", "size": 2220},
+      {"name": "humanoid robot", "size": 2220},
+      {"name": "air balloon", "size": 2220},
+      {"name": "cancer fighter", "size": 2220},
+      {"name": "scientists plan + design virus", "size": 2220},  
+      {"name": "moto x wait ", "size": 2220}, 
+      {"name": "drone", "size": 2220},
+      {"name": "wood frame design", "size": 2220},
+      {"name": "interior design", "size": 2220},
+      {"name": "amphitheater", "size": 2220},  
+      {"name": "design showcase", "size": 2220},
+      {"name": "architecture design", "size": 2220},  
+      {"name": "website design", "size": 2220},
+      {"name": "new device", "size": 2220},
+      {"name": "upper quad", "size": 2220},  
+      {"name": "cart bag", "size": 2220}
+     ]
+    },
+    {
+     "name": "Other",
+     "children": [
+      {"name": "design journey", "size": 721},
+      {"name": "learn", "size": 4294},
+      {"name": "original design", "size": 4294},
+      {"name": "design contest + design research + google ", "size": 4294}     
+     ]
+    }, 
+    {
+     "name": "location",
+     "children": [
+      {"name": "clifton forge", "size": 2220}  
+      {"name": "virginia tech rasche", "size": 4294},
+      {"name": "china", "size": 4294}     
+     ]
+    },
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "amazing", "size": 4294},
+      {"name": "congratulations", "size": 4294},
+      {"name": "innovation", "size": 2220}        
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Entrepreneur",
+   "children": [
+    {
+     "name": "People",
+     "children": [
+      {"name": "young entrepreneurs", "size": 721},
+      {"name": "student entrepreneurs", "size": 4294},
+      {"name": "vp + michael liu", "size": 9800},
+      {"name": "freshman entrepreneur community", "size": 1314},
+      {"name": "tech accelerator", "size": 721},
+      {"name": "pete snyder", "size": 4294},
+      {"name": "brett blackman john herr", "size": 9800},
+      {"name": "kenya diaspora", "size": 1314},
+      {"name": "richard branson ", "size": 1314}        
+     ]
+    },
+    {
+     "name": "Organization",
+     "children": [
+      {"name": "virginia tech collegiate", "size": 721},
+      {"name": "monster team", "size": 4294},
+      {"name": "tech startups", "size": 1314},
+      {"name": "vtcrc", "size": 721},
+      {"name": "veteran", "size": 4294},
+      {"name": "nyc", "size": 9800},
+      {"name": "usaf", "size": 1314}  
+     ]
+    },
+    {
+     "name": "Program",
+     "children": [
+      {"name": "top + life sciences", "size": 721},
+      {"name": "energy tech", "size": 4294},
+      {"name": "pamplin", "size": 9800},
+      {"name": "virginia tech apex systems", "size": 1314},
+      {"name": "entrepreneurship programs", "size": 9800} 
+     ]
+    },
+    {
+     "name": "Project",
+     "children": [
+      {"name": "big data", "size": 721},  
+      {"name": "innovation learning", "size": 9800},
+      {"name": "informational primers", "size": 1314},
+      {"name": "cornerstones", "size": 2220},
+      {"name": "entrepreneurial university", "size": 2220},
+      {"name": "entrepreneur zone", "size": 2220},
+      {"name": "fest buzzes", "size": 2220},
+      {"name": "mega entrepreneur ", "size": 2220},  
+      {"name": "entrepreneurship course", "size": 2220}
+     ]
+    },
+    {
+     "name": "Other",
+     "children": [
+      {"name": "horizons ", "size": 4294}    
+     ]
+    }, 
+    {
+     "name": "location",
+     "children": [
+      {"name": "fraternity house", "size": 2220}      
+     ]
+    },
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "great op", "size": 4294},
+      {"name": "congrats", "size": 4294},
+      {"name": "innovate", "size": 2220},
+      {"name": "great advice", "size": 4294},
+      {"name": "big spread", "size": 4294},
+      {"name": "global challenge", "size": 2220},
+      {"name": "sharing", "size": 4294},
+      {"name": "dream", "size": 2220}     
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Technology",
+   "children": [
+    {
+     "name": "People",
+     "children": [
+      {"name": "researchers", "size": 721},
+      {"name": "woman", "size": 4294},
+      {"name": "terry mcauliffe", "size": 9800}      
+     ]
+    },
+    {
+     "name": "Organization/company",
+     "children": [
+      {"name": "humana", "size": 721},
+      {"name": "cisco", "size": 4294},
+      {"name": "tech firms", "size": 1314},
+      {"name": "information technology firms", "size": 721},
+      {"name": "school employees", "size": 4294},
+      {"name": "microsoft", "size": 9800},
+      {"name": "google", "size": 1314},
+      {"name": "toshiba", "size": 9800},
+      {"name": "washington post", "size": 1314},
+      {"name": "veterinary", "size": 9800},
+      {"name": "oil companies", "size": 1314},
+      {"name": "virginia clinic ", "size": 9800},
+      {"name": "hospitals", "size": 1314}       
+     ]
+    },
+    {
+     "name": "Project",
+     "children": [
+      {"name": "nanotechnology", "size": 721},  
+      {"name": "business technology", "size": 9800},
+      {"name": "hydrogen fuel technology", "size": 1314},
+      {"name": "data center", "size": 2220},
+      {"name": "uva wise meeting", "size": 2220},
+      {"name": "gional technology", "size": 2220},
+      {"name": "anche su strade", "size": 2220},
+      {"name": "google car", "size": 2220},  
+      {"name": "hydrogen technolog", "size": 2220},
+      {"name": "coal mine", "size": 2220},
+      {"name": "cube", "size": 2220},  
+      {"name": "internet + digital", "size": 2220},
+      {"name": "robots", "size": 2220}
+     ]
+    },
+    {
+     "name": "Sentiment",
+     "children": [
+      {"name": "technology awards", "size": 4294}    
+     ]
+    }
+   ]
   }
- ] 
+ ]
 }
