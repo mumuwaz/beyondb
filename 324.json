@@ -74,9 +74,9 @@
    ]
   },
   {
-   "name": "Campous",
+   "name": "Campus",
    "children": [
-    {"name": "campous safety",
+    {"name": "Campus safety",
      "children": [
       {"name": "seung hui cho", "size": 3938},
       {"name": "april", "size": 3812},
@@ -85,7 +85,7 @@
      ]
     },
     {
-     "name": "Campous look",
+     "name": "Campus look",
      "children": [
       {"name": "campus tour", "size": 1983},
       {"name": "nice campus", "size": 2047},
@@ -98,7 +98,7 @@
      ]
     },
     {
-     "name": "Campous activity",
+     "name": "Campus activity",
      "children": [
       {"name": "chick fil", "size": 1983},
       {"name": "campus food", "size": 2047},
@@ -182,7 +182,7 @@
    ]
   },
   {
-   "name": "Falculty",
+   "name": "Faculty",
    "children": [
     {"name": "Department & Projects",
      "children": [
