@@ -539,7 +539,7 @@
     {
      "name": "location",
      "children": [
-      {"name": "clifton forge", "size": 2220}  
+      {"name": "clifton forge", "size": 2220},  
       {"name": "virginia tech rasche", "size": 4294},
       {"name": "china", "size": 4294}     
      ]
