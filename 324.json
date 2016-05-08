@@ -416,14 +416,14 @@
      "name": "Organization",
      "children": [
       {"name": "town hall", "size": 721},
-      {"name": "rt vt + commonwealth", "size": 4294}
+      {"name": "vt commonwealth", "size": 4294}
      ]
     },
     {
      "name": "Program",
      "children": [
       {"name": "insidehigherED", "size": 721},
-      {"name": "ath major", "size": 4294},
+      {"name": "math major", "size": 4294},
       {"name": "art major", "size": 9800},
       {"name": "new undergraduate biology course", "size": 1314},
       {"name": "neuroscience", "size": 2220}
@@ -435,12 +435,12 @@
       {"name": "new undergraduate biology course", "size": 721},  
       {"name": "intersectional diversity", "size": 9800},
       {"name": "campus technology", "size": 1314},
-      {"name": "co chair + visit", "size": 2220},
+      {"name": "co chair visit", "size": 2220},
       {"name": "info check", "size": 2220},
       {"name": "residential learning", "size": 2220},
       {"name": "uplifting black men", "size": 2220},  
       {"name": "diversity workshop", "size": 2220}, 
-      {"name": "ted talk + vulnerability + power", "size": 2220},
+      {"name": "ted talk vulnerability power", "size": 2220},
       {"name": "video game opera", "size": 2220},
       {"name": "reinvent itself", "size": 2220},
       {"name": "operacraft", "size": 2220},  
