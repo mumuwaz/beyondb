@@ -1,0 +1,3459 @@
+{
+  "Defects": [
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "contact": "18.57"
+            },
+            {
+              "visor": "12.06"
+            },
+            {
+              "sun": "10.57"
+            },
+            {
+              "side": "10.14"
+            },
+            {
+              "driver": "10.14"
+            },
+            {
+              "state": "8.32"
+            },
+            {
+              "fall": "2.99"
+            },
+            {
+              "stay": "2.99"
+            },
+            {
+              "obstruct": "2.45"
+            },
+            {
+              "view": "2.03"
+            },
+            {
+              "passenger": "1.60"
+            },
+            {
+              "upright": "1.39"
+            },
+            {
+              "fracture": "1.28"
+            },
+            {
+              "front": "1.17"
+            },
+            {
+              "impair": "1.17"
+            },
+            {
+              "block": "1.07"
+            },
+            {
+              "hang": "0.96"
+            },
+            {
+              "safety": "0.96"
+            },
+            {
+              "drop": "0.96"
+            },
+            {
+              "upward": "0.64"
+            }
+          ],
+          "Probability": "58.34"
+        },
+        {
+          "Words": [
+            {
+              "position": "17.14"
+            },
+            {
+              "drive": "16.57"
+            },
+            {
+              "remain": "10.28"
+            },
+            {
+              "fail": "8.00"
+            },
+            {
+              "break": "8.00"
+            },
+            {
+              "roadway": "6.29"
+            },
+            {
+              "continue": "5.14"
+            },
+            {
+              "place": "5.14"
+            },
+            {
+              "obscure": "2.86"
+            },
+            {
+              "wet": "1.71"
+            },
+            {
+              "seat": "1.71"
+            },
+            {
+              "proper": "1.14"
+            },
+            {
+              "inhibit": "1.14"
+            },
+            {
+              "ability": "1.14"
+            },
+            {
+              "holder": "1.14"
+            },
+            {
+              "listen": "0.57"
+            },
+            {
+              "caliper": "0.57"
+            },
+            {
+              "vvt-i": "0.57"
+            },
+            {
+              "specific": "0.57"
+            },
+            {
+              "airlift": "0.57"
+            }
+          ],
+          "Probability": "11.84"
+        },
+        {
+          "Words": [
+            {
+              "failure": "6.00"
+            },
+            {
+              "dashboard": "5.50"
+            },
+            {
+              "cause": "4.75"
+            },
+            {
+              "repair": "4.62"
+            },
+            {
+              "mileage": "4.50"
+            },
+            {
+              "rear": "4.25"
+            },
+            {
+              "visibility": "2.75"
+            },
+            {
+              "sticky": "2.50"
+            },
+            {
+              "dash": "2.38"
+            },
+            {
+              "glare": "2.25"
+            },
+            {
+              "pull": "2.13"
+            },
+            {
+              "windshield": "2.13"
+            },
+            {
+              "day": "1.88"
+            },
+            {
+              "find": "1.75"
+            },
+            {
+              "door": "1.63"
+            },
+            {
+              "year": "1.63"
+            },
+            {
+              "melt": "1.63"
+            },
+            {
+              "current": "1.50"
+            },
+            {
+              "window": "1.38"
+            },
+            {
+              "melting": "1.38"
+            }
+          ],
+          "Probability": "10.28"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE DRIVER'S SIDE SUN VISOR FAILED. THE SUN VISOR DETACHED FROM THE PLASTIC HOLDER AND OBSTRUCTED THE DRIVER'S VIEW OF THE ROADWAY. THE VEHICLE WAS NOT TAKEN TO THE DEALER. THE SUN VISOR WA",
+          "Date": "Sun Jun 30 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE DRIVER AND PASSENGER SIDE SUN VISORS WOULD NOT REMAIN SECURE IN AN UPRIGHT POSITION. THE VEHICLE WAS TAKEN TO AN AUTHORIZED DEALER WHERE ONLY THE DRIVER'S SIDE SUN VISOR WAS REPLACED. T",
+          "Date": "Wed Jun 08 00:00:00 EDT 2011"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE DRIVER SIDE SUN VISOR WOULD NOT REMAIN IN AN UPWARD STATIONARY POSITION. THE SUN VISOR WAS FRACTURED ALONG THE SEAM WHICH WAS LOCATED NEAR THE SUPPORT BRACKET. THE MANUFACTURER WAS NOT",
+          "Date": "Mon Jul 11 00:00:00 EDT 2011"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE DRIVER SIDE SUN VISOR WOULD NOT REMAIN SECURED IN ITS HOUSING. THE VISOR WOULD CONTINUOUSLY FALL, OBSTRUCTING THE DRIVER'S VIEW OF THE ROADWAY.  THE VEHICLE WAS TAKEN TO THE DEALER WHER",
+          "Date": "Fri Jul 20 00:00:00 EDT 2012"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE DRIVER SIDE SUN VISOR BROKE AND AS A RESULT, WAS BLOCKING HIS VISIBILITY OF THE ROADWAY. THE VEHICLE WAS TAKEN TO THE DEALER WHO DIAGNOSED THAT THE SUN VISOR ASSEMBLY NEEDED TO BE REPLA",
+          "Date": "Fri May 18 00:00:00 EDT 2012"
+        },
+        {
+          "Description": "THE DRIVER SIDE VISOR IS BROKEN AND HANGING DOWN.  TOYOTA EXTENDED THE WARRANTY ON OUR VISORS TO 7 YEARS FROM PURCHASE WHICH EXPIRED ON 4\/27\/14.  THE PASSENGER SIDE VISOR WAS REPLACED DURING THE RECALL BUT NOT THE DRIVER SIDE.",
+          "Date": "Wed Oct 01 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE DRIVER'S SIDE SUN VISOR PLASTIC HOLDER DETACHED FROM ITS HOUSING, CAUSING THE SUN VISOR TO HANG ABNORMALLY. THE VEHICLE WAS NOT TAKEN TO A DEALER FOR A DIAGNOSTIC. THE MANUFACTURER WAS",
+          "Date": "Thu Dec 17 00:00:00 EST 2009"
+        },
+        {
+          "Description": "THE SUN VISOR ON THE DRIVER SIDE OF THE 2007 TOYOTA CAMRY IS DEFECTIVE.  IT FLOPS DOWN AND CANNOT GO BACK TO ITS POSITION OF BEING UP. AS A RESULT, VISIBILITY IS AFFECTED WHICH CAN BE DANGEROUS. I THINK THERE SHOULD BE A RECALL FOR THE MANUFACTURER TO FIX",
+          "Date": "Tue May 07 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. WHILE PARKED, THE CONTACT STATED THAT THE DRIVER縎 SIDE SUN VISOR DROPPED DOWN AND OBSTRUCTED VISIBILITY. THE VEHICLE WAS TAKEN TO THE DEALER FOR A DIAGNOSTIC TEST. THE TECHNICIAN STATED THAT THE DRIVER縎 SIDE SUN V",
+          "Date": "Thu Sep 01 00:00:00 EDT 2011"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE DRIVER SIDE SUN VISOR BROKE AND WAS BLOCKING HIS VISIBILITY OF THE ROADWAY. THE VEHICLE WAS TAKEN TO THE DEALER WHO STATED THAT THE VISOR ASSEMBLY NEEDED TO BE REPLACED. THE MANUFACTURE",
+          "Date": "Thu Sep 01 00:00:00 EDT 2011"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "sun": "27.50"
+        },
+        {
+          "side": "25.72"
+        },
+        {
+          "driver": "25.27"
+        },
+        {
+          "position": "7.83"
+        },
+        {
+          "view": "3.58"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "manufacturer": "15.26"
+            },
+            {
+              "failure": "13.13"
+            },
+            {
+              "fix": "7.73"
+            },
+            {
+              "make": "5.99"
+            },
+            {
+              "diagnose": "5.41"
+            },
+            {
+              "visor": "5.02"
+            },
+            {
+              "cause": "4.64"
+            },
+            {
+              "cost": "3.86"
+            },
+            {
+              "notify": "3.67"
+            },
+            {
+              "way": "1.93"
+            },
+            {
+              "attempt": "1.74"
+            },
+            {
+              "receive": "1.55"
+            },
+            {
+              "remedy": "1.35"
+            },
+            {
+              "testing": "1.35"
+            },
+            {
+              "warranty": "1.16"
+            },
+            {
+              "feel": "0.97"
+            },
+            {
+              "wall": "0.97"
+            },
+            {
+              "happen": "0.77"
+            },
+            {
+              "remove": "0.77"
+            },
+            {
+              "brand": "0.77"
+            }
+          ],
+          "Probability": "27.46"
+        }
+      ],
+      "Probability": "16.63"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "oil": "37.14"
+            },
+            {
+              "engine": "9.71"
+            },
+            {
+              "quart": "5.71"
+            },
+            {
+              "mile": "3.43"
+            },
+            {
+              "excessive": "3.43"
+            },
+            {
+              "add": "3.43"
+            },
+            {
+              "pro": "2.86"
+            },
+            {
+              "consume": "2.86"
+            },
+            {
+              "consuming": "2.29"
+            },
+            {
+              "cyl": "1.71"
+            },
+            {
+              "leak": "1.71"
+            },
+            {
+              "consumption": "1.71"
+            },
+            {
+              "handling": "1.14"
+            },
+            {
+              "motor": "1.14"
+            },
+            {
+              "trace": "1.14"
+            },
+            {
+              "thought": "1.14"
+            },
+            {
+              "rack": "1.14"
+            },
+            {
+              "hill": "0.57"
+            },
+            {
+              "slower": "0.57"
+            },
+            {
+              "rear-ended": "0.57"
+            }
+          ],
+          "Probability": "25.00"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "2007 TOYOTA CAMRY LE 6 CYL. -  PREMATURE WATER PUMP FAILURE WITH 32,755 MILES. THE DEALERSHIP WAS AWARE OF THE TECHNICAL SERVICE BULLETIN REGARDING LEAKING WATER PUMPS. THEY CLAIMED THAT THEY WOULD GIVE ME A DISCOUNT ON A NEW PUMP....LABOR & PARTS TOTALED",
+          "Date": "Tue Sep 18 00:00:00 EDT 2012"
+        },
+        {
+          "Description": "ARRIVED AT TOYOTA DEALERSHIP FOR AN OIL CHANGE AND WAS TOLD, I ONLY HAD OIL IN MY OIL PAN, ENGINE WAS ALMOST OUT OF OIL, TOYOTA KNOWS OF THE OIL CONSUMPTION PROBLEM AS STATED IN THERE SERVICE BULLETIN. BUT WILL NOT HONOR MY WARRANTY, MY CAR IS STILL UNDER",
+          "Date": "Thu Mar 29 00:00:00 EDT 2012"
+        },
+        {
+          "Description": "MY CAR IS CONSUMING OIL OUT OF NORMAL. THE DEALER PUT ME ON OIL CONSUMPTION TEST LAST YEAR. I WAS TOLD THAT THE OIL CONSUMPTION IS OK. NOW I HAVE  THE SAME ISSUE AGAIN. I WAS VERY LOW ON OIL ALMOST I QT LEFT IN THE ENGINE. I CHECKED THE ENGINE OIL BECAUSE",
+          "Date": "Wed Sep 14 00:00:00 EDT 2011"
+        },
+        {
+          "Description": "UNIT JERKS AND STALLS, BURNS OIL  .SOME TIMES WHITE SMOKE COMES FROM THE TAIL PIPE .  OIL HAS TO BE REPLACED CONSTANTLY AFTER OIL CHANGE ,  RECOMMENDED WEIGHT 5W20W IS USED. I HAVE HAD TO REPLACE BURNED SPARK PLUGS. THIS IS A PROBLEM AND NEEDS TO BE ON A",
+          "Date": "Thu Sep 25 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "I BOUGHT 07 CAMRY FROM LOCAL TOYOTA DEALERSHIP IN 2007. FROM THE START I'VE NOTICED THE CAR WAS CONSUMING OIL. THERE IS NO TRACE OF LEAK ANYWHERE BUT WAS TAKING OIL. WITHOUT MUCH THOUGHT, I WOULD ADD OIL AS NEEDED. AS THE MILEAGE START TO RACK UP, THE PRO",
+          "Date": "Thu May 10 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "I BOUGHT 07 CAMRY FROM LOCAL TOYOTA DEALERSHIP IN 2007. FROM THE START I'VE NOTICED THE CAR WAS CONSUMING OIL. THERE IS NO TRACE OF LEAK ANYWHERE BUT WAS TAKING OIL. WITHOUT MUCH THOUGHT, I WOULD ADD OIL AS NEEDED. AS THE MILEAGE START TO RACK UP, THE PRO",
+          "Date": "Thu May 10 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "2007 CAMRY SE BURNING OIL ON ENGINE. DEALER ADVISED I WOULD NEED A NEW ENGINE AT A COST OF $7200 TO REPLACE. DEALER ADVISED TO CHECK OIL EVERY 1000 MILE. ALTHOUGH I DON'T SEE OIL LEAKS, I AM HAVING TO ADD OIL EVERY 1000 MILES. DEALER'S SERVICE TECH ATTRIB",
+          "Date": "Fri Feb 18 00:00:00 EST 2011"
+        },
+        {
+          "Description": "THE OIL LIGHT ON MY 2007 TOYOTA CAMRY COMES ON BEFORE THE REQUIRED OIL CHANGE IS DUE.  WHEN I TAKE IT TO THE DEALERSHIP, THEY SAY IT IS LOW ON OIL & IT IS NORMAL TO BURN ABOUT A QUART OF OIL FOR EVERY 700 - 1000 MILES & I NEED TO CHECK IT BETWEEN OIL CHAN",
+          "Date": "Fri Jun 03 00:00:00 EDT 2011"
+        },
+        {
+          "Description": "OUR 2007 TOYOTA CAMRY HAS BEEN BURNING MORE OIL THAN MANUAL SPECIFIES. WE BEGAN TO CHECK OIL LEVEL ONCE A WEEK, DUE TO LOW AMOUNT OF OIL. IN SEPTEMBER, 2013, WE HAD BLUE SMOKE COMING FROM THE CAR. WHEN WE CHECKED WITH MECHANIC, HE ASKED IF 4 CYL OR 6 CYL.",
+          "Date": "Thu Sep 12 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "MY CHECK ENGINE LIGHT CAME ON AND WHEN I TOOK IT TO THE DEALER, I HAD NO OIL IN THE CAR. HOWEVER, I WAS WELL WITHIN THE RANGE BEFORE AN OIL CHANGE WAS DUE.THEY CONDUCTED AN OIL CONSUMPTION TEST AND FOUND NOTHING WAS WRONG. BUT EVERY TWO MONTHS SINCE THEN,",
+          "Date": "Mon Dec 10 00:00:00 EST 2012"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "oil": "48.71"
+        },
+        {
+          "engine": "18.54"
+        },
+        {
+          "water": "4.09"
+        },
+        {
+          "pump": "3.14"
+        },
+        {
+          "rate": "2.51"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "oil": "25.40"
+            },
+            {
+              "engine": "14.52"
+            },
+            {
+              "mile": "7.98"
+            },
+            {
+              "change": "6.53"
+            },
+            {
+              "consumption": "6.53"
+            },
+            {
+              "cyl": "2.18"
+            },
+            {
+              "bulletin": "2.18"
+            },
+            {
+              "quart": "2.18"
+            },
+            {
+              "vehus": "1.45"
+            },
+            {
+              "add": "1.45"
+            },
+            {
+              "seize": "1.45"
+            },
+            {
+              "latch": "0.73"
+            },
+            {
+              "break": "0.73"
+            },
+            {
+              "warranty": "0.73"
+            },
+            {
+              "discount": "0.73"
+            },
+            {
+              "vvt-i": "0.73"
+            },
+            {
+              "family": "0.73"
+            },
+            {
+              "strand": "0.73"
+            },
+            {
+              "home": "0.73"
+            },
+            {
+              "vermont": "0.73"
+            }
+          ],
+          "Probability": "22.83"
+        },
+        {
+          "Words": [
+            {
+              "mechanic": "11.37"
+            },
+            {
+              "check": "8.59"
+            },
+            {
+              "tire": "7.20"
+            },
+            {
+              "inspection": "6.04"
+            },
+            {
+              "oil": "5.34"
+            },
+            {
+              "acceleration": "5.11"
+            },
+            {
+              "test": "4.64"
+            },
+            {
+              "unable": "4.64"
+            },
+            {
+              "fail": "3.25"
+            },
+            {
+              "independent": "2.79"
+            },
+            {
+              "experience": "1.86"
+            },
+            {
+              "leave": "1.86"
+            },
+            {
+              "pass": "1.63"
+            },
+            {
+              "transmission": "1.39"
+            },
+            {
+              "lack": "1.16"
+            },
+            {
+              "explain": "1.16"
+            },
+            {
+              "panel": "1.16"
+            },
+            {
+              "shaft": "0.93"
+            },
+            {
+              "steering": "0.93"
+            },
+            {
+              "recommend": "0.93"
+            }
+          ],
+          "Probability": "10.83"
+        },
+        {
+          "Words": [
+            {
+              "strut": "10.74"
+            },
+            {
+              "leak": "10.25"
+            },
+            {
+              "front": "8.54"
+            },
+            {
+              "inform": "7.08"
+            },
+            {
+              "consumer": "4.15"
+            },
+            {
+              "mat": "3.66"
+            },
+            {
+              "routine": "3.17"
+            },
+            {
+              "bring": "2.68"
+            },
+            {
+              "end": "2.44"
+            },
+            {
+              "floor": "2.44"
+            },
+            {
+              "tow": "2.20"
+            },
+            {
+              "accelerate": "1.71"
+            },
+            {
+              "exit": "1.46"
+            },
+            {
+              "level": "1.46"
+            },
+            {
+              "line": "1.46"
+            },
+            {
+              "windshield": "1.46"
+            },
+            {
+              "know": "1.22"
+            },
+            {
+              "tsb": "1.22"
+            },
+            {
+              "burn": "1.22"
+            },
+            {
+              "cross": "0.98"
+            }
+          ],
+          "Probability": "10.17"
+        }
+      ],
+      "Probability": "11.98"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "pedal": "12.31"
+            },
+            {
+              "time": "7.20"
+            },
+            {
+              "brake": "4.92"
+            },
+            {
+              "gas": "3.98"
+            },
+            {
+              "depress": "3.60"
+            },
+            {
+              "warning": "3.41"
+            },
+            {
+              "apply": "3.41"
+            },
+            {
+              "part": "2.65"
+            },
+            {
+              "air": "2.46"
+            },
+            {
+              "sign": "1.89"
+            },
+            {
+              "system": "1.70"
+            },
+            {
+              "crash": "1.70"
+            },
+            {
+              "key": "1.70"
+            },
+            {
+              "sun": "1.70"
+            },
+            {
+              "push": "1.52"
+            },
+            {
+              "bag": "1.52"
+            },
+            {
+              "intersection": "1.33"
+            },
+            {
+              "cut": "1.33"
+            },
+            {
+              "size": "1.14"
+            },
+            {
+              "recall": "1.14"
+            }
+          ],
+          "Probability": "25.18"
+        },
+        {
+          "Words": [
+            {
+              "problem": "11.98"
+            },
+            {
+              "front": "5.99"
+            },
+            {
+              "tire": "5.81"
+            },
+            {
+              "issue": "3.81"
+            },
+            {
+              "failure": "3.63"
+            },
+            {
+              "gear": "3.63"
+            },
+            {
+              "smell": "3.27"
+            },
+            {
+              "shake": "3.09"
+            },
+            {
+              "park": "2.90"
+            },
+            {
+              "speedometer": "2.54"
+            },
+            {
+              "buy": "1.81"
+            },
+            {
+              "run": "1.81"
+            },
+            {
+              "return": "1.63"
+            },
+            {
+              "happen": "1.63"
+            },
+            {
+              "hit": "1.45"
+            },
+            {
+              "jerk": "1.45"
+            },
+            {
+              "electrical": "1.45"
+            },
+            {
+              "work": "1.45"
+            },
+            {
+              "good": "1.45"
+            },
+            {
+              "board": "1.27"
+            }
+          ],
+          "Probability": "12.80"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "AS I WAS APPROACHING A PEDESTRIAN CROSSING, THE ABS LIGHT AND CHECK VSC LIGHT AND BRAKE LIGHT CAME ON. WHEN I TRIED TO APPLY THE BRAKES TO STOP, I REALIZED THAT THE BRAKES WERE NOT RESPONSIVE. THE CAR DID NOT GO INTO LIMP HOME MODE. THE ABS HAD COMPLETELY",
+          "Date": "Mon Apr 14 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "AS I WAS APPROACHING A PEDESTRIAN CROSSING, THE ABS LIGHT AND CHECK VSC LIGHT AND BRAKE LIGHT CAME ON. WHEN I TRIED TO APPLY THE BRAKES TO STOP, I REALIZED THAT THE BRAKES WERE NOT RESPONSIVE. THE CAR DID NOT GO INTO LIMP HOME MODE. THE ABS HAD COMPLETELY",
+          "Date": "Mon Apr 14 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "FOR TWO YEARS NOW, THE \"CHECK VSC\" LIGHT WILL COME ON INTERMITTENTLY.  IT HAS HAPPENED BOTH WHEN I AM IN MOTION AS WELL AS STATIONARY.  AT THAT TIME, SEVERAL OTHER LIGHTS ON THE CLUSTER SUCH AS THE ABS LIGHT WILL COME ON.  THE BRAKES BECOME VERY SLUGGISH",
+          "Date": "Mon Jun 09 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "LIKE MANY OTHERS WITH THIS PARTICULAR CAR (HYBRID), CHECK VSC SYSTEM WARNING CAME ON ALONG WITH MANY WARNING LIGHTS ON THE CAR AND THE BRAKES STOPPED FUNCTIONING PROPERLY. INSTEAD OF NORMAL BREAKING, IT NOW TAKES PUSHING THEM ALL THE WAY DOWN SOMETIMES. T",
+          "Date": "Thu Feb 27 00:00:00 EST 2014"
+        },
+        {
+          "Description": "LIKE MANY OTHERS WITH THIS PARTICULAR CAR (HYBRID), CHECK VSC SYSTEM WARNING CAME ON ALONG WITH MANY WARNING LIGHTS ON THE CAR AND THE BRAKES STOPPED FUNCTIONING PROPERLY. INSTEAD OF NORMAL BREAKING, IT NOW TAKES PUSHING THEM ALL THE WAY DOWN SOMETIMES. T",
+          "Date": "Thu Feb 27 00:00:00 EST 2014"
+        },
+        {
+          "Description": "CUSTOMER STATES ABS LIGHT ON, (DEALER) DIAGNOSTIC CODE C1391, ABNORMAL LEAK IN ACCUMULATOR. RECOMMEND REPLACEMENT OF ACCUMULATOR AND BRAKE FLUSH. $3642.00 INC. TAX. PART IS DESCRIBED AS ACCUMULATOR\/HYDRAULIC CONTROL\/ECU ASSEMBLY, PART NUMBER 44050-30660,",
+          "Date": "Wed Feb 05 00:00:00 EST 2014"
+        },
+        {
+          "Description": "CUSTOMER STATES ABS LIGHT ON, (DEALER) DIAGNOSTIC CODE C1391, ABNORMAL LEAK IN ACCUMULATOR. RECOMMEND REPLACEMENT OF ACCUMULATOR AND BRAKE FLUSH. $3642.00 INC. TAX. PART IS DESCRIBED AS ACCUMULATOR\/HYDRAULIC CONTROL\/ECU ASSEMBLY, PART NUMBER 44050-30660,",
+          "Date": "Wed Feb 05 00:00:00 EST 2014"
+        },
+        {
+          "Description": "I DO NOT OWN THE 2007 TOYOTA CAMRY OR THE LEXUS ES350 , BUT IN THE COURSE OF TEST DRIVING BOTH OF THE VEHICLES, I WAS SHOCKED TO DISCOVER THAT THE START\/STOP BUTTON DEFEATS THE OLDER IGNITION KEY IINTERLOCK SYSTEM. IN THE OLDER KEYED IGNITION SYSTEM THE C",
+          "Date": "Wed Jun 13 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT WHEN THEY APPLIED THE BRAKES, THE ABS WOULD SPORADICALLY ENGAGE, AND THE ABS LIGHT WOULD ILLUMINATE. THE VEHICLE WAS TAKEN TO THE DEALER WHERE THE CONTACT WAS ADVISED THAT THE ABS ACTUATOR",
+          "Date": "Tue Apr 15 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "AIRBAG INDICATOR LIGHT CAME ON FOR APPARENTLY NO REASON, TOOK CAR IN FOR SERVICE AND WAS TOLD IT WAS NOT AN ISSUE WITH TOYOTA, I HAD TO PAY TO GET PART REPLACED, AFTER ALMOST $400 REPAIR COST, GOT VEHICLE BACK AND RUNNING.   THIS ISSUE SHOULD NOT BE PUT O",
+          "Date": "Mon Sep 02 00:00:00 EDT 2013"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "light": "21.02"
+        },
+        {
+          "brake": "16.65"
+        },
+        {
+          "system": "13.09"
+        },
+        {
+          "part": "9.12"
+        },
+        {
+          "hybrid": "6.74"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "light": "22.61"
+            },
+            {
+              "check": "12.14"
+            },
+            {
+              "system": "9.63"
+            },
+            {
+              "vsc": "7.96"
+            },
+            {
+              "dash": "5.44"
+            },
+            {
+              "engine": "3.35"
+            },
+            {
+              "part": "3.35"
+            },
+            {
+              "warn": "2.93"
+            },
+            {
+              "warning": "2.93"
+            },
+            {
+              "hybrid": "2.09"
+            },
+            {
+              "actuator": "2.09"
+            },
+            {
+              "ignition": "1.26"
+            },
+            {
+              "key": "1.26"
+            },
+            {
+              "fast": "1.26"
+            },
+            {
+              "abnormal": "1.26"
+            },
+            {
+              "traction": "1.26"
+            },
+            {
+              "exclamation": "1.26"
+            },
+            {
+              "model": "1.26"
+            },
+            {
+              "bulb": "0.84"
+            },
+            {
+              "c1391": "0.84"
+            }
+          ],
+          "Probability": "26.26"
+        },
+        {
+          "Words": [
+            {
+              "advise": "7.89"
+            },
+            {
+              "service": "7.21"
+            },
+            {
+              "local": "4.96"
+            },
+            {
+              "control": "3.83"
+            },
+            {
+              "rear": "3.61"
+            },
+            {
+              "stop": "3.38"
+            },
+            {
+              "day": "2.93"
+            },
+            {
+              "brake": "2.70"
+            },
+            {
+              "year": "2.25"
+            },
+            {
+              "inspect": "2.03"
+            },
+            {
+              "defect": "1.80"
+            },
+            {
+              "shop": "1.80"
+            },
+            {
+              "blow": "1.80"
+            },
+            {
+              "week": "1.58"
+            },
+            {
+              "complaint": "1.58"
+            },
+            {
+              "hesitation": "1.58"
+            },
+            {
+              "return": "1.58"
+            },
+            {
+              "occur": "1.58"
+            },
+            {
+              "diagnosis": "1.58"
+            },
+            {
+              "adjust": "1.35"
+            }
+          ],
+          "Probability": "13.59"
+        }
+      ],
+      "Probability": "10.81"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "mph": "11.29"
+            },
+            {
+              "acceleration": "5.84"
+            },
+            {
+              "accelerator": "4.91"
+            },
+            {
+              "purchase": "3.72"
+            },
+            {
+              "turn": "3.19"
+            },
+            {
+              "xle": "3.19"
+            },
+            {
+              "hear": "2.39"
+            },
+            {
+              "seconds": "2.39"
+            },
+            {
+              "steer": "2.26"
+            },
+            {
+              "consumer": "1.99"
+            },
+            {
+              "visor": "1.99"
+            },
+            {
+              "dangerous": "1.86"
+            },
+            {
+              "rpm": "1.59"
+            },
+            {
+              "end": "1.59"
+            },
+            {
+              "foot": "1.59"
+            },
+            {
+              "continue": "1.46"
+            },
+            {
+              "stall": "1.46"
+            },
+            {
+              "stick": "1.33"
+            },
+            {
+              "wear": "1.20"
+            },
+            {
+              "accident": "1.20"
+            }
+          ],
+          "Probability": "26.43"
+        },
+        {
+          "Words": [
+            {
+              "pedal": "12.31"
+            },
+            {
+              "time": "7.20"
+            },
+            {
+              "brake": "4.92"
+            },
+            {
+              "gas": "3.98"
+            },
+            {
+              "depress": "3.60"
+            },
+            {
+              "warning": "3.41"
+            },
+            {
+              "apply": "3.41"
+            },
+            {
+              "part": "2.65"
+            },
+            {
+              "air": "2.46"
+            },
+            {
+              "sign": "1.89"
+            },
+            {
+              "system": "1.70"
+            },
+            {
+              "crash": "1.70"
+            },
+            {
+              "key": "1.70"
+            },
+            {
+              "sun": "1.70"
+            },
+            {
+              "push": "1.52"
+            },
+            {
+              "bag": "1.52"
+            },
+            {
+              "intersection": "1.33"
+            },
+            {
+              "cut": "1.33"
+            },
+            {
+              "size": "1.14"
+            },
+            {
+              "recall": "1.14"
+            }
+          ],
+          "Probability": "23.25"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "TOYOTA REPLACED THE FLOOR MAT HOOKS IN MY 2007 CAMRY ACCORDING TO THE RECALL.  NEW HOOKS CONTINUE TO PULL OUT FROM THE FLOOR EVERY DAY AND THE FLOOR MAT SLIDES UNDER THE GAS PEDAL.",
+          "Date": "Sun Mar 21 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. HE STATED THE BRAKE PEDAL MODIFICATION PREVENTED HIS FOOT FROM REACHING THE BRAKE PEDAL IN A TIMELY MANNER. THE DEALER CUT TWO TO THREE INCHES OF ACCELERATOR PEDAL THEREFORE WHEN HE REACHED FOR THE BRAKE PEDAL IT",
+          "Date": "Fri Mar 05 00:00:00 EST 2010"
+        },
+        {
+          "Description": "2007 TOYOTA CAMRY. CONSUMER STATES DISTRESS WITH RESULT OF REPLACEMENT OF THE ACCELERATOR PEDAL. *TGW  THE CONSUMER ALLOWED THE DEALER TO SHORTEN THE ACCELERATOR PEDAL, WHICH WAS NEVER IN CLOSE PROXIMITY OF THE FLOOR MAT. THE VEHICLE IS NOW DIFFICULT TO D",
+          "Date": "Tue Jan 01 00:00:00 EST 1901"
+        },
+        {
+          "Description": "TOYOTAS LATEST RECALL SHOULD NOT BE A FLOOR MAT OR STUCK ACCELERATOR PROBLEM. MY 2007 CAMRY HAS EXPERIENCED THIS SCENERIO AT LEAST SEVERAL TIMES A YEAR (EVEN THOUGH I KNOW IT EXISTS).  THE PROBLEM IS THE DESIGN OF THE BRAKE PEDAL AND ACCELERATOR PEDAL. TH",
+          "Date": "Sat Jun 29 00:00:00 EDT 1996"
+        },
+        {
+          "Description": "TOYOTAS LATEST RECALL SHOULD NOT BE A FLOOR MAT OR STUCK ACCELERATOR PROBLEM. MY 2007 CAMRY HAS EXPERIENCED THIS SCENERIO AT LEAST SEVERAL TIMES A YEAR (EVEN THOUGH I KNOW IT EXISTS).  THE PROBLEM IS THE DESIGN OF THE BRAKE PEDAL AND ACCELERATOR PEDAL. TH",
+          "Date": "Sat Jun 29 00:00:00 EDT 1996"
+        },
+        {
+          "Description": "TOYOTAS LATEST RECALL SHOULD NOT BE A FLOOR MAT OR STUCK ACCELERATOR PROBLEM. MY 2007 CAMRY HAS EXPERIENCED THIS SCENERIO AT LEAST SEVERAL TIMES A YEAR (EVEN THOUGH I KNOW IT EXISTS).  THE PROBLEM IS THE DESIGN OF THE BRAKE PEDAL AND ACCELERATOR PEDAL. TH",
+          "Date": "Sat Jun 29 00:00:00 EDT 1996"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT HE TOOK THE VEHICLE INTO THE DEALER TO HAVE THE ACCELERATOR PEDAL REPAIRED. THE DEALER CUT THE LENGTH OF THE PEDAL. THE PEDAL WAS TOO SHORT AND HE WAS UNABLE TO REACH IT. THE ONLY WAY SHE WA",
+          "Date": "Tue Aug 10 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "2007 TOYOTA CAMRY WITH UNINTENDED ACCELERATION. CONSUMER STATES SHE RECEIVED A RECALL FOR THE FLOOR MATS AND IS STATING THE FLOOR MATS ARE NOT THE ISSUE.  *KB  WHEN THE CONSUMER ATTEMPTED TO SLOW DOWN, THERE WAS NO PROBLEM. HOWEVER, WHEN SHE STEPPED ON TH",
+          "Date": "Tue Jan 01 00:00:00 EST 1901"
+        },
+        {
+          "Description": "THIS PROBLEM MAY BE RELATED TO THE TOYOTA GAS PEDAL RECALL.  I HAVE A 2007 TOYOTA CAMRY LE.  WHEN I AM ON THE FREEWAY AND MOVING IN A SLOW LANE, AND CHANGE LANE AND PUSH ON THE GAS PEDAL TO ACCELERATE, THE CAR TAKES A FEW SECONDS TO RESPOND.  AS A RESULT,",
+          "Date": "Fri Feb 05 00:00:00 EST 2010"
+        },
+        {
+          "Description": "TOYOTA CAMRY RECALL WAS \"CORRECTED\" LAST MONTH, AS TO THE ACCELERATOR PEDAL ISSUE.  THE ACCELERATION NOW SEEMS MORE ERRATIC THAN BEFORE.  I DO NOT BELIEVE IT WAS A PEDAL PROBLEM, RATHER AN ELECTRONIC ONE.  I HAVE NOT TAKEN THE CAR ON THE OPEN ROAD BUT AM",
+          "Date": "Wed Feb 17 00:00:00 EST 2010"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "pedal": "31.05"
+        },
+        {
+          "accelerator": "16.20"
+        },
+        {
+          "gas": "14.40"
+        },
+        {
+          "floor": "7.65"
+        },
+        {
+          "mat": "7.20"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "pedal": "22.83"
+            },
+            {
+              "accelerator": "17.67"
+            },
+            {
+              "seem": "5.89"
+            },
+            {
+              "computer": "5.16"
+            },
+            {
+              "campaign": "5.16"
+            },
+            {
+              "nhtsa": "4.42"
+            },
+            {
+              "feb": "2.95"
+            },
+            {
+              "cut": "2.21"
+            },
+            {
+              "modification": "2.21"
+            },
+            {
+              "traffic": "1.47"
+            },
+            {
+              "intersection": "1.47"
+            },
+            {
+              "thump": "1.47"
+            },
+            {
+              "reach": "1.47"
+            },
+            {
+              "roof": "0.74"
+            },
+            {
+              "ripple": "0.74"
+            },
+            {
+              "pretend": "0.74"
+            },
+            {
+              "connect": "0.74"
+            },
+            {
+              "investigate": "0.74"
+            },
+            {
+              "government": "0.74"
+            },
+            {
+              "reprog": "0.74"
+            }
+          ],
+          "Probability": "16.03"
+        },
+        {
+          "Words": [
+            {
+              "strut": "10.74"
+            },
+            {
+              "leak": "10.25"
+            },
+            {
+              "front": "8.54"
+            },
+            {
+              "inform": "7.08"
+            },
+            {
+              "consumer": "4.15"
+            },
+            {
+              "mat": "3.66"
+            },
+            {
+              "routine": "3.17"
+            },
+            {
+              "bring": "2.68"
+            },
+            {
+              "end": "2.44"
+            },
+            {
+              "floor": "2.44"
+            },
+            {
+              "tow": "2.20"
+            },
+            {
+              "accelerate": "1.71"
+            },
+            {
+              "exit": "1.46"
+            },
+            {
+              "level": "1.46"
+            },
+            {
+              "line": "1.46"
+            },
+            {
+              "windshield": "1.46"
+            },
+            {
+              "know": "1.22"
+            },
+            {
+              "tsb": "1.22"
+            },
+            {
+              "burn": "1.22"
+            },
+            {
+              "cross": "0.98"
+            }
+          ],
+          "Probability": "10.38"
+        }
+      ],
+      "Probability": "10.23"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "mph": "11.29"
+            },
+            {
+              "acceleration": "5.84"
+            },
+            {
+              "accelerator": "4.91"
+            },
+            {
+              "purchase": "3.72"
+            },
+            {
+              "turn": "3.19"
+            },
+            {
+              "xle": "3.19"
+            },
+            {
+              "hear": "2.39"
+            },
+            {
+              "seconds": "2.39"
+            },
+            {
+              "steer": "2.26"
+            },
+            {
+              "consumer": "1.99"
+            },
+            {
+              "visor": "1.99"
+            },
+            {
+              "dangerous": "1.86"
+            },
+            {
+              "rpm": "1.59"
+            },
+            {
+              "end": "1.59"
+            },
+            {
+              "foot": "1.59"
+            },
+            {
+              "continue": "1.46"
+            },
+            {
+              "stall": "1.46"
+            },
+            {
+              "stick": "1.33"
+            },
+            {
+              "wear": "1.20"
+            },
+            {
+              "accident": "1.20"
+            }
+          ],
+          "Probability": "18.10"
+        },
+        {
+          "Words": [
+            {
+              "problem": "11.98"
+            },
+            {
+              "front": "5.99"
+            },
+            {
+              "tire": "5.81"
+            },
+            {
+              "issue": "3.81"
+            },
+            {
+              "failure": "3.63"
+            },
+            {
+              "gear": "3.63"
+            },
+            {
+              "smell": "3.27"
+            },
+            {
+              "shake": "3.09"
+            },
+            {
+              "park": "2.90"
+            },
+            {
+              "speedometer": "2.54"
+            },
+            {
+              "buy": "1.81"
+            },
+            {
+              "run": "1.81"
+            },
+            {
+              "return": "1.63"
+            },
+            {
+              "happen": "1.63"
+            },
+            {
+              "hit": "1.45"
+            },
+            {
+              "jerk": "1.45"
+            },
+            {
+              "electrical": "1.45"
+            },
+            {
+              "work": "1.45"
+            },
+            {
+              "good": "1.45"
+            },
+            {
+              "board": "1.27"
+            }
+          ],
+          "Probability": "13.17"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT WHILE DRIVING AT A UNKNOWN SPEED, THE INSTRUMENT PANEL FAILED AND THE CONTACT WAS UNABLE TO DETERMINE THE SPEED. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC, WHO DIAGNOSED THAT THE ELE",
+          "Date": "Thu Jul 24 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT WHILE DRIVING AT A UNKNOWN SPEED, THE INSTRUMENT PANEL FAILED AND THE CONTACT WAS UNABLE TO DETERMINE THE SPEED. THE VEHICLE WAS TAKEN TO AN INDEPENDENT MECHANIC, WHO DIAGNOSED THAT THE ELE",
+          "Date": "Thu Jul 24 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "DT*: THE CONTACT STATED THE AUTOMATIC TRANSMISSION WAS UNABLE TO CHANGE GEARS.  THE SERVICE DEALER DETERMINED THE VEHICLE NEEDED A NEW TRANSMISSION.  UPDATED 12\/28\/2006 - THE TRANSMISSION WOULD NOT SHIFT FROM SECOND TO THIRD GEAR OR FROM THIRD TO FOURTH.",
+          "Date": "Thu Jun 01 00:00:00 EDT 2006"
+        },
+        {
+          "Description": "2007 TOYOTA CAMRY SE, THERE IS A LOOSENESS AND CLUNKING NOISE FROM THE STEERING WHEEL. THIS HAPPENS WHEN THE WHEEL IS TURNED FROM LEFT TO RIGHT ( STOPPED) AND DRIVING AT LOW CITY SPEEDS. HAD THE CAR TO THE DEALER MULTIPLE TIMES FOR THIS INCIDENT AND IT CO",
+          "Date": "Tue Mar 11 00:00:00 EDT 2008"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY XLE. THE CONTACT STATED THAT WHEN DRIVING AT VARIOUS SPEEDS AND ATTEMPTING TO TURN IN EITHER DIRECTION, THE STEERING WHEEL WOULD EXHIBIT AN UNUSUAL NOISE.  AFTER TAKING THE VEHICLE TO A DEALER FOR INSPECTION, HE WA",
+          "Date": "Fri Feb 25 00:00:00 EST 2011"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY XLE. THE CONTACT STATED THAT WHEN DRIVING AT VARIOUS SPEEDS AND ATTEMPTING TO TURN IN EITHER DIRECTION, THE STEERING WHEEL WOULD EXHIBIT AN UNUSUAL NOISE.  AFTER TAKING THE VEHICLE TO A DEALER FOR INSPECTION, HE WA",
+          "Date": "Fri Feb 25 00:00:00 EST 2011"
+        },
+        {
+          "Description": "I PURCHASED A 2007 CAMRY 4 CYLINDER XLE AUG. 2006. THE IMMEDIATE ISSUE I HAD WAS ITS LACK OF ACCELERATION.  I WAS TOLD BY THE DEALERSHIP (COMPETITION TOYOTA OF NEW YORK) WAS TO CHANGE THE WAY I WAS DRIVING THE CAR TO FORCE BETTER ACCELERATION. FEB. 10, 20",
+          "Date": "Tue Aug 28 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "CAR HESITATES AND AUTOMATIC TRANSMISSION SHIFTS ABRUPTLY AT HIGHWAY SPEEDS (55-65 MPH).  HESITATION IS PARTICULARITY ALARMING.  IF I NEEDED TO ACCELERATE QUICKLY FROM A STOP, THIS CAR WOULD NOT RESPOND.  DEALER STATES THEY HAVE NEVER HEARD OF THESE PROBLE",
+          "Date": "Thu Sep 14 00:00:00 EDT 2006"
+        },
+        {
+          "Description": "CAR HESITATES AND AUTOMATIC TRANSMISSION SHIFTS ABRUPTLY AT HIGHWAY SPEEDS (55-65 MPH).  HESITATION IS PARTICULARITY ALARMING.  IF I NEEDED TO ACCELERATE QUICKLY FROM A STOP, THIS CAR WOULD NOT RESPOND.  DEALER STATES THEY HAVE NEVER HEARD OF THESE PROBLE",
+          "Date": "Thu Sep 14 00:00:00 EDT 2006"
+        },
+        {
+          "Description": "DT*: THE CONTACT STATED WHILE TRAVELING VARIOUS SPEEDS, THE VEHICLE HESITATED WHEN SHIFTING GEARS.  THE CONTACT STATED THE VEHICLE FELT AS IF THE GEAR WAS IN NEUTRAL WHEN THE HESITATION OCCURRED.  ON 12\/07\/06, THE VEHICLE WAS TAKEN TO THE DEALER, WHO COUL",
+          "Date": "Wed Nov 01 00:00:00 EST 2006"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "speed": "16.00"
+        },
+        {
+          "transmission": "14.55"
+        },
+        {
+          "gear": "11.64"
+        },
+        {
+          "xle": "11.15"
+        },
+        {
+          "wheel": "10.18"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "mechanic": "11.37"
+            },
+            {
+              "check": "8.59"
+            },
+            {
+              "tire": "7.20"
+            },
+            {
+              "inspection": "6.04"
+            },
+            {
+              "oil": "5.34"
+            },
+            {
+              "acceleration": "5.11"
+            },
+            {
+              "test": "4.64"
+            },
+            {
+              "unable": "4.64"
+            },
+            {
+              "fail": "3.25"
+            },
+            {
+              "independent": "2.79"
+            },
+            {
+              "experience": "1.86"
+            },
+            {
+              "leave": "1.86"
+            },
+            {
+              "pass": "1.63"
+            },
+            {
+              "transmission": "1.39"
+            },
+            {
+              "lack": "1.16"
+            },
+            {
+              "explain": "1.16"
+            },
+            {
+              "panel": "1.16"
+            },
+            {
+              "shaft": "0.93"
+            },
+            {
+              "steering": "0.93"
+            },
+            {
+              "recommend": "0.93"
+            }
+          ],
+          "Probability": "26.63"
+        },
+        {
+          "Words": [
+            {
+              "advise": "7.89"
+            },
+            {
+              "service": "7.21"
+            },
+            {
+              "local": "4.96"
+            },
+            {
+              "control": "3.83"
+            },
+            {
+              "rear": "3.61"
+            },
+            {
+              "stop": "3.38"
+            },
+            {
+              "day": "2.93"
+            },
+            {
+              "brake": "2.70"
+            },
+            {
+              "year": "2.25"
+            },
+            {
+              "inspect": "2.03"
+            },
+            {
+              "defect": "1.80"
+            },
+            {
+              "shop": "1.80"
+            },
+            {
+              "blow": "1.80"
+            },
+            {
+              "week": "1.58"
+            },
+            {
+              "complaint": "1.58"
+            },
+            {
+              "hesitation": "1.58"
+            },
+            {
+              "return": "1.58"
+            },
+            {
+              "occur": "1.58"
+            },
+            {
+              "diagnosis": "1.58"
+            },
+            {
+              "adjust": "1.35"
+            }
+          ],
+          "Probability": "14.82"
+        },
+        {
+          "Words": [
+            {
+              "manufacturer": "15.26"
+            },
+            {
+              "failure": "13.13"
+            },
+            {
+              "fix": "7.73"
+            },
+            {
+              "make": "5.99"
+            },
+            {
+              "diagnose": "5.41"
+            },
+            {
+              "visor": "5.02"
+            },
+            {
+              "cause": "4.64"
+            },
+            {
+              "cost": "3.86"
+            },
+            {
+              "notify": "3.67"
+            },
+            {
+              "way": "1.93"
+            },
+            {
+              "attempt": "1.74"
+            },
+            {
+              "receive": "1.55"
+            },
+            {
+              "remedy": "1.35"
+            },
+            {
+              "testing": "1.35"
+            },
+            {
+              "warranty": "1.16"
+            },
+            {
+              "feel": "0.97"
+            },
+            {
+              "wall": "0.97"
+            },
+            {
+              "happen": "0.77"
+            },
+            {
+              "remove": "0.77"
+            },
+            {
+              "brand": "0.77"
+            }
+          ],
+          "Probability": "10.05"
+        }
+      ],
+      "Probability": "10.01"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "mph": "11.29"
+            },
+            {
+              "acceleration": "5.84"
+            },
+            {
+              "accelerator": "4.91"
+            },
+            {
+              "purchase": "3.72"
+            },
+            {
+              "turn": "3.19"
+            },
+            {
+              "xle": "3.19"
+            },
+            {
+              "hear": "2.39"
+            },
+            {
+              "seconds": "2.39"
+            },
+            {
+              "steer": "2.26"
+            },
+            {
+              "consumer": "1.99"
+            },
+            {
+              "visor": "1.99"
+            },
+            {
+              "dangerous": "1.86"
+            },
+            {
+              "rpm": "1.59"
+            },
+            {
+              "end": "1.59"
+            },
+            {
+              "foot": "1.59"
+            },
+            {
+              "continue": "1.46"
+            },
+            {
+              "stall": "1.46"
+            },
+            {
+              "stick": "1.33"
+            },
+            {
+              "wear": "1.20"
+            },
+            {
+              "accident": "1.20"
+            }
+          ],
+          "Probability": "21.92"
+        },
+        {
+          "Words": [
+            {
+              "failure": "6.00"
+            },
+            {
+              "dashboard": "5.50"
+            },
+            {
+              "cause": "4.75"
+            },
+            {
+              "repair": "4.62"
+            },
+            {
+              "mileage": "4.50"
+            },
+            {
+              "rear": "4.25"
+            },
+            {
+              "visibility": "2.75"
+            },
+            {
+              "sticky": "2.50"
+            },
+            {
+              "dash": "2.38"
+            },
+            {
+              "glare": "2.25"
+            },
+            {
+              "pull": "2.13"
+            },
+            {
+              "windshield": "2.13"
+            },
+            {
+              "day": "1.88"
+            },
+            {
+              "find": "1.75"
+            },
+            {
+              "door": "1.63"
+            },
+            {
+              "year": "1.63"
+            },
+            {
+              "melt": "1.63"
+            },
+            {
+              "current": "1.50"
+            },
+            {
+              "window": "1.38"
+            },
+            {
+              "melting": "1.38"
+            }
+          ],
+          "Probability": "12.61"
+        },
+        {
+          "Words": [
+            {
+              "pedal": "12.31"
+            },
+            {
+              "time": "7.20"
+            },
+            {
+              "brake": "4.92"
+            },
+            {
+              "gas": "3.98"
+            },
+            {
+              "depress": "3.60"
+            },
+            {
+              "warning": "3.41"
+            },
+            {
+              "apply": "3.41"
+            },
+            {
+              "part": "2.65"
+            },
+            {
+              "air": "2.46"
+            },
+            {
+              "sign": "1.89"
+            },
+            {
+              "system": "1.70"
+            },
+            {
+              "crash": "1.70"
+            },
+            {
+              "key": "1.70"
+            },
+            {
+              "sun": "1.70"
+            },
+            {
+              "push": "1.52"
+            },
+            {
+              "bag": "1.52"
+            },
+            {
+              "intersection": "1.33"
+            },
+            {
+              "cut": "1.33"
+            },
+            {
+              "size": "1.14"
+            },
+            {
+              "recall": "1.14"
+            }
+          ],
+          "Probability": "10.06"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE FUEL TANK HEAT SHIELD BECAME SEPARATED. THE VEHICLE WAS TAKEN TO THE DEALER, WHO DETERMINED THAT THE HEAT SHIELD METAL FAILED DUE TO ELECTRICAL CHARGE AND CORROSION. THE FUEL HEAT SHIEL",
+          "Date": "Wed Nov 13 00:00:00 EST 2013"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY LE.  SHE REFERENCED NHTSA RECALL CAMPAIGN ID NUMBER: 09V388000, VEHICLE SPEED CONTROL:ACCELERATOR PEDAL. SHE STATED THAT THE RECALL WORK WAS PERFORMED EARLIER THIS YEARS; HOWEVER, THE VEHICLE HAD ACCELERATED  TWICE",
+          "Date": "Wed Jul 07 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE VEHICLE WAS PREVIOUSLY SERVICED FOR THE RECALLS ASSOCIATED WITH NHTSA CAMPAIGN ID NUMBER  09V388000 AND 10V017000,  VEHICLE SPEED CONTROL, ACCELERATOR PEDAL. UPON RECEIVING THE VEHICLE FROM AN AUTHORIZED DEALER",
+          "Date": "Thu Jun 24 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE VEHICLE WAS TAKEN TO THE DEALER TO HAVE NHTSA CAMPAIGN ID NUMBERS 09V388000 AND 10V017000 (VEHICLE SPEED CONTROL: ACCELERATOR PEDAL) REPAIRS PERFORMED. AFTER THE VEHICLE WAS REPAIRED, TH",
+          "Date": "Fri Feb 12 00:00:00 EST 2010"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE VEHICLE WAS TAKEN TO THE DEALER FOR A FUEL MODIFICATION; HOWEVER, THE DEALER PERFORMED RECALL REPAIRS ACCORDING TO NHTSA CAMPAIGN ID NUMBER 10V017000: VEHICLE SPEED CONTROL: ACCELERATOR",
+          "Date": "Tue Mar 09 00:00:00 EST 2010"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY. WHILE DRIVING AT SPEEDS OF APPROXIMATELY 45 MPH AND DEPRESSING THE ACCELERATOR PEDAL, THE VEHICLE WAS HESITANT TO PICK UP SPEED. NEITHER THE DEALER NOR THE MANUFACTURER WAS CONTACTED TO ADDRESS THE FAILURE. HE RECE",
+          "Date": "Fri Jan 01 00:00:00 EST 2010"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY WHICH WAS PURCHASED BRAND NEW. WHILE TRAVELING 5 MPH AND UP AND DEPRESSING THE ACCELERATOR PEDAL, THE VEHICLE SLOWLY PICKED UP SPEED AND WOULD OFTEN HESITATE. THE DEALER COULD NOT DUPLICATE THE FAILURE AND ADVISED T",
+          "Date": "Sun Jun 10 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 CAMRY LE.  THE CONTACT STATED THAT THE TAKE OFF SPEED WAS VERY SLOWLY.  THE VEHICLE WOULD ACCELERATE TO A NORMAL SPEED WHEN THE PEDAL WAS DEPRESSED TO THE FLOORBOARD.  THE DEALER STATED THAT THE ACCELERATION FUNCTIONS WAS EQUIPP",
+          "Date": "Sat May 26 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY.  WHEN THE ACCELERATOR PEDAL WAS DEPRESSED, THE VEHICLE FAILED TO ACCELERATE FOR 20-30 SECONDS.  THE FAILURE OCCURRED AT ALL SPEEDS BETWEEN 1-100 MPH.  THE VEHICLE WAS NOT INSPECTED BY A DEALER.  THE FAILURE MILEAGE",
+          "Date": "Thu Jun 01 00:00:00 EDT 2006"
+        },
+        {
+          "Description": "DT*:  THE CONTACT STATED WHILE DEPRESSING THE ACCELERATOR PEDAL FROM A STOP OR DURING A TURN THERE WAS A HESITATION.  THE DEALERSHIP COULD NOT DETERMINED THE CAUSE OF THE PROBLEM AND THERE WERE NO REPAIR PERFORMED.",
+          "Date": "Mon Nov 06 00:00:00 EST 2006"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "speed": "24.15"
+        },
+        {
+          "pedal": "15.37"
+        },
+        {
+          "accelerator": "14.27"
+        },
+        {
+          "control": "9.33"
+        },
+        {
+          "turn": "6.04"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "pedal": "22.83"
+            },
+            {
+              "accelerator": "17.67"
+            },
+            {
+              "seem": "5.89"
+            },
+            {
+              "computer": "5.16"
+            },
+            {
+              "campaign": "5.16"
+            },
+            {
+              "nhtsa": "4.42"
+            },
+            {
+              "feb": "2.95"
+            },
+            {
+              "cut": "2.21"
+            },
+            {
+              "modification": "2.21"
+            },
+            {
+              "traffic": "1.47"
+            },
+            {
+              "intersection": "1.47"
+            },
+            {
+              "thump": "1.47"
+            },
+            {
+              "reach": "1.47"
+            },
+            {
+              "roof": "0.74"
+            },
+            {
+              "ripple": "0.74"
+            },
+            {
+              "pretend": "0.74"
+            },
+            {
+              "connect": "0.74"
+            },
+            {
+              "investigate": "0.74"
+            },
+            {
+              "government": "0.74"
+            },
+            {
+              "reprog": "0.74"
+            }
+          ],
+          "Probability": "14.03"
+        },
+        {
+          "Words": [
+            {
+              "manufacturer": "15.26"
+            },
+            {
+              "failure": "13.13"
+            },
+            {
+              "fix": "7.73"
+            },
+            {
+              "make": "5.99"
+            },
+            {
+              "diagnose": "5.41"
+            },
+            {
+              "visor": "5.02"
+            },
+            {
+              "cause": "4.64"
+            },
+            {
+              "cost": "3.86"
+            },
+            {
+              "notify": "3.67"
+            },
+            {
+              "way": "1.93"
+            },
+            {
+              "attempt": "1.74"
+            },
+            {
+              "receive": "1.55"
+            },
+            {
+              "remedy": "1.35"
+            },
+            {
+              "testing": "1.35"
+            },
+            {
+              "warranty": "1.16"
+            },
+            {
+              "feel": "0.97"
+            },
+            {
+              "wall": "0.97"
+            },
+            {
+              "happen": "0.77"
+            },
+            {
+              "remove": "0.77"
+            },
+            {
+              "brand": "0.77"
+            }
+          ],
+          "Probability": "12.67"
+        }
+      ],
+      "Probability": "9.10"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "failure": "6.00"
+            },
+            {
+              "dashboard": "5.50"
+            },
+            {
+              "cause": "4.75"
+            },
+            {
+              "repair": "4.62"
+            },
+            {
+              "mileage": "4.50"
+            },
+            {
+              "rear": "4.25"
+            },
+            {
+              "visibility": "2.75"
+            },
+            {
+              "sticky": "2.50"
+            },
+            {
+              "dash": "2.38"
+            },
+            {
+              "glare": "2.25"
+            },
+            {
+              "pull": "2.13"
+            },
+            {
+              "windshield": "2.13"
+            },
+            {
+              "day": "1.88"
+            },
+            {
+              "find": "1.75"
+            },
+            {
+              "door": "1.63"
+            },
+            {
+              "year": "1.63"
+            },
+            {
+              "melt": "1.63"
+            },
+            {
+              "current": "1.50"
+            },
+            {
+              "window": "1.38"
+            },
+            {
+              "melting": "1.38"
+            }
+          ],
+          "Probability": "14.86"
+        },
+        {
+          "Words": [
+            {
+              "mph": "11.29"
+            },
+            {
+              "acceleration": "5.84"
+            },
+            {
+              "accelerator": "4.91"
+            },
+            {
+              "purchase": "3.72"
+            },
+            {
+              "turn": "3.19"
+            },
+            {
+              "xle": "3.19"
+            },
+            {
+              "hear": "2.39"
+            },
+            {
+              "seconds": "2.39"
+            },
+            {
+              "steer": "2.26"
+            },
+            {
+              "consumer": "1.99"
+            },
+            {
+              "visor": "1.99"
+            },
+            {
+              "dangerous": "1.86"
+            },
+            {
+              "rpm": "1.59"
+            },
+            {
+              "end": "1.59"
+            },
+            {
+              "foot": "1.59"
+            },
+            {
+              "continue": "1.46"
+            },
+            {
+              "stall": "1.46"
+            },
+            {
+              "stick": "1.33"
+            },
+            {
+              "wear": "1.20"
+            },
+            {
+              "accident": "1.20"
+            }
+          ],
+          "Probability": "12.48"
+        },
+        {
+          "Words": [
+            {
+              "problem": "11.98"
+            },
+            {
+              "front": "5.99"
+            },
+            {
+              "tire": "5.81"
+            },
+            {
+              "issue": "3.81"
+            },
+            {
+              "failure": "3.63"
+            },
+            {
+              "gear": "3.63"
+            },
+            {
+              "smell": "3.27"
+            },
+            {
+              "shake": "3.09"
+            },
+            {
+              "park": "2.90"
+            },
+            {
+              "speedometer": "2.54"
+            },
+            {
+              "buy": "1.81"
+            },
+            {
+              "run": "1.81"
+            },
+            {
+              "return": "1.63"
+            },
+            {
+              "happen": "1.63"
+            },
+            {
+              "hit": "1.45"
+            },
+            {
+              "jerk": "1.45"
+            },
+            {
+              "electrical": "1.45"
+            },
+            {
+              "work": "1.45"
+            },
+            {
+              "good": "1.45"
+            },
+            {
+              "board": "1.27"
+            }
+          ],
+          "Probability": "10.09"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "VSC WARNING ON DASH, CHECK ENGINE LIGHT, TRACTION CONTROL LIGHT, AND GENERAL WARNING (TRIANGLE WITH EXCLAMATION). ACCELERATION SEEMED STIFFER THAN NORMAL, THOUGHT SMELLED SOMETHING BURNING. AT DEALER FOR DIAGNOSTICS. HAVE REPORTED NEED TO REPLACE TRANSMIS",
+          "Date": "Wed Aug 07 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "VSC WARNING ON DASH, CHECK ENGINE LIGHT, TRACTION CONTROL LIGHT, AND GENERAL WARNING (TRIANGLE WITH EXCLAMATION). ACCELERATION SEEMED STIFFER THAN NORMAL, THOUGHT SMELLED SOMETHING BURNING. AT DEALER FOR DIAGNOSTICS. HAVE REPORTED NEED TO REPLACE TRANSMIS",
+          "Date": "Wed Aug 07 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "VSC WARNING ON DASH, CHECK ENGINE LIGHT, TRACTION CONTROL LIGHT, AND GENERAL WARNING (TRIANGLE WITH EXCLAMATION). ACCELERATION SEEMED STIFFER THAN NORMAL, THOUGHT SMELLED SOMETHING BURNING. AT DEALER FOR DIAGNOSTICS. HAVE REPORTED NEED TO REPLACE TRANSMIS",
+          "Date": "Wed Aug 07 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY LE. WHILE DRIVING WITH THE CRUISE CONTROL SET AT 80 MPH THE VEHICLE SUDDENLY ACCELERATED TO 86 MPH.  SHE WAS ABLE TO TURN THE CRUISE CONTROL OFF AND GAIN CONTROL OF THE VEHICLE.  THE DEALER STATED THEY COULD NOT MAK",
+          "Date": "Fri Apr 24 00:00:00 EDT 2009"
+        },
+        {
+          "Description": "SEVERAL WARNING LIGHTS ON THE DASH ILLUMINATED, INCLUDING THE STABILITY CONTROL AND BRAKE LIGHTS, ALONG WITH A WARNING ON THE DIC THAT SAID \"CHECK VSC.\" THERE WAS ALSO AN INTERMITTENT LOSS OF BRAKING ABILITY\/BRAKE PEDAL PRESSURE.",
+          "Date": "Sat Aug 02 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "SEVERAL WARNING LIGHTS ON THE DASH ILLUMINATED, INCLUDING THE STABILITY CONTROL AND BRAKE LIGHTS, ALONG WITH A WARNING ON THE DIC THAT SAID \"CHECK VSC.\" THERE WAS ALSO AN INTERMITTENT LOSS OF BRAKING ABILITY\/BRAKE PEDAL PRESSURE.",
+          "Date": "Sat Aug 02 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "AT AROUND THE END OF JULY 2012 THE DASH BOARD ON MY 2007 CAMRY STARTED TO GET GUMMY AND STICKY. WHEN I WENT TO THE DEALER I WAS TOLD THAT THE CAR WAS OUT OF WARRANTY AND THAT THE DASH COULD BE REPLACE BUT THAT IT WOULD COST ME OUT OF POCKET. NOW MY DASH B",
+          "Date": "Tue Jul 31 00:00:00 EDT 2012"
+        },
+        {
+          "Description": "DT*: THE CONTACT STATED THE ENGINE HESITATED WHEN ACCELERATING FROM A STOP.  THE HESITATION OF THE ENGINE LASTED BETWEEN 30 TO 60 SECONDS.  THE VEHICLE WAS TAKEN TO THE SERVICE DEALER, WHO DID NOT FIND ANY PROBLEM WITH THE ENGINE.  THE MANUFACTURER WAS AW",
+          "Date": "Thu Apr 06 00:00:00 EDT 2006"
+        },
+        {
+          "Description": "DT*: THE CONTACT STATED THE ENGINE HESITATED WHEN ACCELERATING FROM A STOP.  THE HESITATION OF THE ENGINE LASTED BETWEEN 30 TO 60 SECONDS.  THE VEHICLE WAS TAKEN TO THE SERVICE DEALER, WHO DID NOT FIND ANY PROBLEM WITH THE ENGINE.  THE MANUFACTURER WAS AW",
+          "Date": "Thu Apr 06 00:00:00 EDT 2006"
+        },
+        {
+          "Description": "DT*:  THE CONTACT STATED WHILE DRIVING UP A SMALL INCLINE AT 40MPH WITH THE CRUISE CONTROL ACTIVATED, THE VEHICLE ACCELERATED WITHOUT WARNING.  UPON INSPECTING THE VEHICLE THE DEALERSHIP DETERMINED THE SUDDEN ACCELERATION WAS NORMAL.",
+          "Date": "Tue Jun 06 00:00:00 EDT 2006"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "engine": "17.48"
+        },
+        {
+          "dash": "17.48"
+        },
+        {
+          "warning": "14.49"
+        },
+        {
+          "light": "14.49"
+        },
+        {
+          "control": "8.49"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "light": "22.61"
+            },
+            {
+              "check": "12.14"
+            },
+            {
+              "system": "9.63"
+            },
+            {
+              "vsc": "7.96"
+            },
+            {
+              "dash": "5.44"
+            },
+            {
+              "engine": "3.35"
+            },
+            {
+              "part": "3.35"
+            },
+            {
+              "warn": "2.93"
+            },
+            {
+              "warning": "2.93"
+            },
+            {
+              "hybrid": "2.09"
+            },
+            {
+              "actuator": "2.09"
+            },
+            {
+              "ignition": "1.26"
+            },
+            {
+              "key": "1.26"
+            },
+            {
+              "fast": "1.26"
+            },
+            {
+              "abnormal": "1.26"
+            },
+            {
+              "traction": "1.26"
+            },
+            {
+              "exclamation": "1.26"
+            },
+            {
+              "model": "1.26"
+            },
+            {
+              "bulb": "0.84"
+            },
+            {
+              "c1391": "0.84"
+            }
+          ],
+          "Probability": "21.60"
+        },
+        {
+          "Words": [
+            {
+              "mechanic": "11.37"
+            },
+            {
+              "check": "8.59"
+            },
+            {
+              "tire": "7.20"
+            },
+            {
+              "inspection": "6.04"
+            },
+            {
+              "oil": "5.34"
+            },
+            {
+              "acceleration": "5.11"
+            },
+            {
+              "test": "4.64"
+            },
+            {
+              "unable": "4.64"
+            },
+            {
+              "fail": "3.25"
+            },
+            {
+              "independent": "2.79"
+            },
+            {
+              "experience": "1.86"
+            },
+            {
+              "leave": "1.86"
+            },
+            {
+              "pass": "1.63"
+            },
+            {
+              "transmission": "1.39"
+            },
+            {
+              "lack": "1.16"
+            },
+            {
+              "explain": "1.16"
+            },
+            {
+              "panel": "1.16"
+            },
+            {
+              "shaft": "0.93"
+            },
+            {
+              "steering": "0.93"
+            },
+            {
+              "recommend": "0.93"
+            }
+          ],
+          "Probability": "10.33"
+        }
+      ],
+      "Probability": "8.80"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "failure": "6.00"
+            },
+            {
+              "dashboard": "5.50"
+            },
+            {
+              "cause": "4.75"
+            },
+            {
+              "repair": "4.62"
+            },
+            {
+              "mileage": "4.50"
+            },
+            {
+              "rear": "4.25"
+            },
+            {
+              "visibility": "2.75"
+            },
+            {
+              "sticky": "2.50"
+            },
+            {
+              "dash": "2.38"
+            },
+            {
+              "glare": "2.25"
+            },
+            {
+              "pull": "2.13"
+            },
+            {
+              "windshield": "2.13"
+            },
+            {
+              "day": "1.88"
+            },
+            {
+              "find": "1.75"
+            },
+            {
+              "door": "1.63"
+            },
+            {
+              "year": "1.63"
+            },
+            {
+              "melt": "1.63"
+            },
+            {
+              "current": "1.50"
+            },
+            {
+              "window": "1.38"
+            },
+            {
+              "melting": "1.38"
+            }
+          ],
+          "Probability": "46.96"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "I WAS PARKED IN A PARKING GARAGE WITH THE CAR RUNNING I WAS SPEAKING ON THE PHONE VIA THE VEHICLES BLUETOOTH. UPON ENDING THE CALL I EXITED THE CAR TO ENSURE IT WAS PARKED PROPERLY BETWEEN THE LINES AND CLOSE ENOUGH TO THE WALL IN FRONT OF THE PARKING SPA",
+          "Date": "Mon Feb 13 00:00:00 EST 2012"
+        },
+        {
+          "Description": "I WAS PARKED IN A PARKING GARAGE WITH THE CAR RUNNING I WAS SPEAKING ON THE PHONE VIA THE VEHICLES BLUETOOTH. UPON ENDING THE CALL I EXITED THE CAR TO ENSURE IT WAS PARKED PROPERLY BETWEEN THE LINES AND CLOSE ENOUGH TO THE WALL IN FRONT OF THE PARKING SPA",
+          "Date": "Mon Feb 13 00:00:00 EST 2012"
+        },
+        {
+          "Description": "I WAS PARKED IN A PARKING GARAGE WITH THE CAR RUNNING I WAS SPEAKING ON THE PHONE VIA THE VEHICLES BLUETOOTH. UPON ENDING THE CALL I EXITED THE CAR TO ENSURE IT WAS PARKED PROPERLY BETWEEN THE LINES AND CLOSE ENOUGH TO THE WALL IN FRONT OF THE PARKING SPA",
+          "Date": "Mon Feb 13 00:00:00 EST 2012"
+        },
+        {
+          "Description": "I WAS PARKED IN A PARKING GARAGE WITH THE CAR RUNNING I WAS SPEAKING ON THE PHONE VIA THE VEHICLES BLUETOOTH. UPON ENDING THE CALL I EXITED THE CAR TO ENSURE IT WAS PARKED PROPERLY BETWEEN THE LINES AND CLOSE ENOUGH TO THE WALL IN FRONT OF THE PARKING SPA",
+          "Date": "Mon Feb 13 00:00:00 EST 2012"
+        },
+        {
+          "Description": "REAR VIEW MIRROR INSIDE BECAME DETACHED FROM THE WINDSHIELD.  A PIECE OF THE WINDSHIELD CAME OFF WITH THE MIRROR.  WE ARE NOW FACED WITH POSSIBLY HAVING TO REPLACE THE WINDSHIELD.  *TR",
+          "Date": "Wed Nov 21 00:00:00 EST 2012"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT NOTICED HYDRAULIC FLUID LEAKING FROM THE SHOCK ABSORBERS. THE VEHICLE WAS TAKEN TO A LOCAL REPAIR SHOP WHERE A MECHANIC INFORMED THE CONTACT THAT THE HYDRAULIC FLUID WAS LEAKING FROM THE FRONT AND REAR",
+          "Date": "Tue Mar 16 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT NOTICED HYDRAULIC FLUID LEAKING FROM THE SHOCK ABSORBERS. THE VEHICLE WAS TAKEN TO A LOCAL REPAIR SHOP WHERE A MECHANIC INFORMED THE CONTACT THAT THE HYDRAULIC FLUID WAS LEAKING FROM THE FRONT AND REAR",
+          "Date": "Tue Mar 16 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY.  WHILE LOOKING OUT OF THE REAR VIEW MIRROR, THE CONTACT NOTICED A REFLECTION THAT DECREASED THE VISIBILITY OUT OF THE REAR WINDOW.  HE BELIEVED THAT THE SHADE IN THE REAR CAUSED THE FAILURE.  THE DEALER WAS UNABLE",
+          "Date": "Sun Apr 01 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY.  WHILE LOOKING OUT OF THE REAR VIEW MIRROR, THE CONTACT NOTICED A REFLECTION THAT DECREASED THE VISIBILITY OUT OF THE REAR WINDOW.  HE BELIEVED THAT THE SHADE IN THE REAR CAUSED THE FAILURE.  THE DEALER WAS UNABLE",
+          "Date": "Sun Apr 01 00:00:00 EDT 2007"
+        },
+        {
+          "Description": "TOOK MY VEHICLE TO THE DEALERSHIP FOR ROUTINE MAINTENANCE. THEY TOLD ME THAT I NEED TO REPLACE MY FRONT STRUTS(FOUND FRONT SHOCK ABSORBERS LEAKING) WHICH WOULD COST $1254. I DID SEARCH ONLINE AND FOUND THAT THIS IS A COMMON ISSUE AMONG 2007 TOYOTA CAMRYS.",
+          "Date": "Fri Nov 09 00:00:00 EST 2012"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "windshield": "13.84"
+        },
+        {
+          "front": "12.64"
+        },
+        {
+          "parking": "9.03"
+        },
+        {
+          "window": "7.22"
+        },
+        {
+          "fluid": "7.22"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "strut": "10.74"
+            },
+            {
+              "leak": "10.25"
+            },
+            {
+              "front": "8.54"
+            },
+            {
+              "inform": "7.08"
+            },
+            {
+              "consumer": "4.15"
+            },
+            {
+              "mat": "3.66"
+            },
+            {
+              "routine": "3.17"
+            },
+            {
+              "bring": "2.68"
+            },
+            {
+              "end": "2.44"
+            },
+            {
+              "floor": "2.44"
+            },
+            {
+              "tow": "2.20"
+            },
+            {
+              "accelerate": "1.71"
+            },
+            {
+              "exit": "1.46"
+            },
+            {
+              "level": "1.46"
+            },
+            {
+              "line": "1.46"
+            },
+            {
+              "windshield": "1.46"
+            },
+            {
+              "know": "1.22"
+            },
+            {
+              "tsb": "1.22"
+            },
+            {
+              "burn": "1.22"
+            },
+            {
+              "cross": "0.98"
+            }
+          ],
+          "Probability": "20.94"
+        },
+        {
+          "Words": [
+            {
+              "advise": "7.89"
+            },
+            {
+              "service": "7.21"
+            },
+            {
+              "local": "4.96"
+            },
+            {
+              "control": "3.83"
+            },
+            {
+              "rear": "3.61"
+            },
+            {
+              "stop": "3.38"
+            },
+            {
+              "day": "2.93"
+            },
+            {
+              "brake": "2.70"
+            },
+            {
+              "year": "2.25"
+            },
+            {
+              "inspect": "2.03"
+            },
+            {
+              "defect": "1.80"
+            },
+            {
+              "shop": "1.80"
+            },
+            {
+              "blow": "1.80"
+            },
+            {
+              "week": "1.58"
+            },
+            {
+              "complaint": "1.58"
+            },
+            {
+              "hesitation": "1.58"
+            },
+            {
+              "return": "1.58"
+            },
+            {
+              "occur": "1.58"
+            },
+            {
+              "diagnosis": "1.58"
+            },
+            {
+              "adjust": "1.35"
+            }
+          ],
+          "Probability": "15.00"
+        },
+        {
+          "Words": [
+            {
+              "manufacturer": "15.26"
+            },
+            {
+              "failure": "13.13"
+            },
+            {
+              "fix": "7.73"
+            },
+            {
+              "make": "5.99"
+            },
+            {
+              "diagnose": "5.41"
+            },
+            {
+              "visor": "5.02"
+            },
+            {
+              "cause": "4.64"
+            },
+            {
+              "cost": "3.86"
+            },
+            {
+              "notify": "3.67"
+            },
+            {
+              "way": "1.93"
+            },
+            {
+              "attempt": "1.74"
+            },
+            {
+              "receive": "1.55"
+            },
+            {
+              "remedy": "1.35"
+            },
+            {
+              "testing": "1.35"
+            },
+            {
+              "warranty": "1.16"
+            },
+            {
+              "feel": "0.97"
+            },
+            {
+              "wall": "0.97"
+            },
+            {
+              "happen": "0.77"
+            },
+            {
+              "remove": "0.77"
+            },
+            {
+              "brand": "0.77"
+            }
+          ],
+          "Probability": "14.06"
+        }
+      ],
+      "Probability": "8.18"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "problem": "11.98"
+            },
+            {
+              "front": "5.99"
+            },
+            {
+              "tire": "5.81"
+            },
+            {
+              "issue": "3.81"
+            },
+            {
+              "failure": "3.63"
+            },
+            {
+              "gear": "3.63"
+            },
+            {
+              "smell": "3.27"
+            },
+            {
+              "shake": "3.09"
+            },
+            {
+              "park": "2.90"
+            },
+            {
+              "speedometer": "2.54"
+            },
+            {
+              "buy": "1.81"
+            },
+            {
+              "run": "1.81"
+            },
+            {
+              "return": "1.63"
+            },
+            {
+              "happen": "1.63"
+            },
+            {
+              "hit": "1.45"
+            },
+            {
+              "jerk": "1.45"
+            },
+            {
+              "electrical": "1.45"
+            },
+            {
+              "work": "1.45"
+            },
+            {
+              "good": "1.45"
+            },
+            {
+              "board": "1.27"
+            }
+          ],
+          "Probability": "27.88"
+        },
+        {
+          "Words": [
+            {
+              "mph": "11.29"
+            },
+            {
+              "acceleration": "5.84"
+            },
+            {
+              "accelerator": "4.91"
+            },
+            {
+              "purchase": "3.72"
+            },
+            {
+              "turn": "3.19"
+            },
+            {
+              "xle": "3.19"
+            },
+            {
+              "hear": "2.39"
+            },
+            {
+              "seconds": "2.39"
+            },
+            {
+              "steer": "2.26"
+            },
+            {
+              "consumer": "1.99"
+            },
+            {
+              "visor": "1.99"
+            },
+            {
+              "dangerous": "1.86"
+            },
+            {
+              "rpm": "1.59"
+            },
+            {
+              "end": "1.59"
+            },
+            {
+              "foot": "1.59"
+            },
+            {
+              "continue": "1.46"
+            },
+            {
+              "stall": "1.46"
+            },
+            {
+              "stick": "1.33"
+            },
+            {
+              "wear": "1.20"
+            },
+            {
+              "accident": "1.20"
+            }
+          ],
+          "Probability": "13.59"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "TOYOTA CAMERY - 2007 HEAD LITES - LOW BEAMS NOT GOOD. HIGH BEAMS NOT GOOD!  GOOGLE  \"TOYATA HEADLIGHT PROBLEMS\" NUMEROUS COMPLAINTS FOR 2007 AND ALSO OTHER YEARS.      I CHECKED THE GROUND AND IT IS GROUNDED PROPERLY.    THERE NEEDS TO BE A RECALL!  SOMEO",
+          "Date": "Tue Oct 28 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "TOYOTA CAMERY - 2007 HEAD LITES - LOW BEAMS NOT GOOD. HIGH BEAMS NOT GOOD!  GOOGLE  \"TOYATA HEADLIGHT PROBLEMS\" NUMEROUS COMPLAINTS FOR 2007 AND ALSO OTHER YEARS.      I CHECKED THE GROUND AND IT IS GROUNDED PROPERLY.    THERE NEEDS TO BE A RECALL!  SOMEO",
+          "Date": "Tue Oct 28 00:00:00 EDT 2014"
+        },
+        {
+          "Description": "TL*THE CONTACT HAS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT  IF YOU ADJUST THE SEAT FOR A TALLER PERSON, THE SEAT BELT DOES NOT ADJUST AND SECURE THE PASSENGER OR DRIVE AND REMAINED LOOSE. THE SEAT BELT HAS MALFUNCTIONED SINCE THE VEHICLE WAS PURCHASE",
+          "Date": "Sat Nov 24 00:00:00 EST 2007"
+        },
+        {
+          "Description": "TL*THE CONTACT OWNS A 2007 TOYOTA CAMRY WITH MICHELIN ENERGY MXV4 TIRES, DOT#HN49, SIZE 215\/60\/R16. DURING INSPECTION AN AUTHORIZED TECHNICIAN STATED THAT ALL 4 TIRES HAD DRY ROT. A  MECHANIC FROM THE MICHELIN TIRE DEALERSHIP CONFIRMED THE PREVIOUS TECHNI",
+          "Date": "Mon Sep 14 00:00:00 EDT 2009"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. WHILE REVERSING OUT OF THE DRIVE WAY AND ATTEMPTING  STOP, THE BRAKE FAILED.  THE VEHICLE HIT A TRUCKS REAR BUMPER. THE VEHICLE WAS TAKEN TO THE DEALER. THE DEALER GAVE THE VEHICLE BACK  AND DID NOT INFORM THE CON",
+          "Date": "Fri Jan 01 00:00:00 EST 2010"
+        },
+        {
+          "Description": "VEHICLE HAS 29000 MILES. ALL TIRES ARE WORN OUT AND HAD TO BE REPLACED PER TOYOTA DEALER INSPECTION.   BOUGHT 4 TIRES AT BRIDGESTONE (ORIGINAL TIRE MANUFACTURER). BRIDGESTONE SAID ALL 4 STRUTS ARE LEAKING AND MIGHT HAVE CONTRIBUTED TO THE PREMATURE TIRE W",
+          "Date": "Wed Oct 21 00:00:00 EDT 2009"
+        },
+        {
+          "Description": "VEHICLE HAS 29000 MILES. ALL TIRES ARE WORN OUT AND HAD TO BE REPLACED PER TOYOTA DEALER INSPECTION.   BOUGHT 4 TIRES AT BRIDGESTONE (ORIGINAL TIRE MANUFACTURER). BRIDGESTONE SAID ALL 4 STRUTS ARE LEAKING AND MIGHT HAVE CONTRIBUTED TO THE PREMATURE TIRE W",
+          "Date": "Wed Oct 21 00:00:00 EDT 2009"
+        },
+        {
+          "Description": "MY 2007 TOYOTA WITH ONLY 14,000 MILES ON IT IS ALREADY OUT OF ALIGNMENT AND WEARING THE INSIDE OF THE TIRES. I THOUGHT THAT I HAD A DEFECTIVE TIRE BECAUSE OF THE THUMPING NOISE AND WAS TOLD BY THE DEALER THAT IT WAS BECAUSE I DID NOT ROTATE THE TIRES. I H",
+          "Date": "Thu Apr 24 00:00:00 EDT 2008"
+        },
+        {
+          "Description": "MY 2007 TOYOTA WITH ONLY 14,000 MILES ON IT IS ALREADY OUT OF ALIGNMENT AND WEARING THE INSIDE OF THE TIRES. I THOUGHT THAT I HAD A DEFECTIVE TIRE BECAUSE OF THE THUMPING NOISE AND WAS TOLD BY THE DEALER THAT IT WAS BECAUSE I DID NOT ROTATE THE TIRES. I H",
+          "Date": "Thu Apr 24 00:00:00 EDT 2008"
+        },
+        {
+          "Description": "THE SPARE TIRE WELL FILLS UP WITH WATER.  FIRST NOTICED THE PROBLEM WHEN I HAD A FLAT TIRE AND NEEDED TO USE THE SPARE.  TAKEN TO DEALER FOR CORRECTIVE ACTION.  DEALER SEALED THE TIRE WELL.  THAT DID NOT RESOLVE THE ISSUE.  AGAIN TAKEN TO DEALER AND TRUNK",
+          "Date": "Tue Mar 09 00:00:00 EST 2010"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "tire": "43.69"
+        },
+        {
+          "drive": "6.94"
+        },
+        {
+          "steering": "4.86"
+        },
+        {
+          "rotor": "4.86"
+        },
+        {
+          "seat": "4.86"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "mechanic": "11.37"
+            },
+            {
+              "check": "8.59"
+            },
+            {
+              "tire": "7.20"
+            },
+            {
+              "inspection": "6.04"
+            },
+            {
+              "oil": "5.34"
+            },
+            {
+              "acceleration": "5.11"
+            },
+            {
+              "test": "4.64"
+            },
+            {
+              "unable": "4.64"
+            },
+            {
+              "fail": "3.25"
+            },
+            {
+              "independent": "2.79"
+            },
+            {
+              "experience": "1.86"
+            },
+            {
+              "leave": "1.86"
+            },
+            {
+              "pass": "1.63"
+            },
+            {
+              "transmission": "1.39"
+            },
+            {
+              "lack": "1.16"
+            },
+            {
+              "explain": "1.16"
+            },
+            {
+              "panel": "1.16"
+            },
+            {
+              "shaft": "0.93"
+            },
+            {
+              "steering": "0.93"
+            },
+            {
+              "recommend": "0.93"
+            }
+          ],
+          "Probability": "24.58"
+        },
+        {
+          "Words": [
+            {
+              "advise": "7.89"
+            },
+            {
+              "service": "7.21"
+            },
+            {
+              "local": "4.96"
+            },
+            {
+              "control": "3.83"
+            },
+            {
+              "rear": "3.61"
+            },
+            {
+              "stop": "3.38"
+            },
+            {
+              "day": "2.93"
+            },
+            {
+              "brake": "2.70"
+            },
+            {
+              "year": "2.25"
+            },
+            {
+              "inspect": "2.03"
+            },
+            {
+              "defect": "1.80"
+            },
+            {
+              "shop": "1.80"
+            },
+            {
+              "blow": "1.80"
+            },
+            {
+              "week": "1.58"
+            },
+            {
+              "complaint": "1.58"
+            },
+            {
+              "hesitation": "1.58"
+            },
+            {
+              "return": "1.58"
+            },
+            {
+              "occur": "1.58"
+            },
+            {
+              "diagnosis": "1.58"
+            },
+            {
+              "adjust": "1.35"
+            }
+          ],
+          "Probability": "12.46"
+        }
+      ],
+      "Probability": "7.49"
+    },
+    {
+      "SymptomTopicList": [
+        {
+          "Words": [
+            {
+              "failure": "6.00"
+            },
+            {
+              "dashboard": "5.50"
+            },
+            {
+              "cause": "4.75"
+            },
+            {
+              "repair": "4.62"
+            },
+            {
+              "mileage": "4.50"
+            },
+            {
+              "rear": "4.25"
+            },
+            {
+              "visibility": "2.75"
+            },
+            {
+              "sticky": "2.50"
+            },
+            {
+              "dash": "2.38"
+            },
+            {
+              "glare": "2.25"
+            },
+            {
+              "pull": "2.13"
+            },
+            {
+              "windshield": "2.13"
+            },
+            {
+              "day": "1.88"
+            },
+            {
+              "find": "1.75"
+            },
+            {
+              "door": "1.63"
+            },
+            {
+              "year": "1.63"
+            },
+            {
+              "melt": "1.63"
+            },
+            {
+              "current": "1.50"
+            },
+            {
+              "window": "1.38"
+            },
+            {
+              "melting": "1.38"
+            }
+          ],
+          "Probability": "17.32"
+        },
+        {
+          "Words": [
+            {
+              "contact": "18.57"
+            },
+            {
+              "visor": "12.06"
+            },
+            {
+              "sun": "10.57"
+            },
+            {
+              "side": "10.14"
+            },
+            {
+              "driver": "10.14"
+            },
+            {
+              "state": "8.32"
+            },
+            {
+              "fall": "2.99"
+            },
+            {
+              "stay": "2.99"
+            },
+            {
+              "obstruct": "2.45"
+            },
+            {
+              "view": "2.03"
+            },
+            {
+              "passenger": "1.60"
+            },
+            {
+              "upright": "1.39"
+            },
+            {
+              "fracture": "1.28"
+            },
+            {
+              "front": "1.17"
+            },
+            {
+              "impair": "1.17"
+            },
+            {
+              "block": "1.07"
+            },
+            {
+              "hang": "0.96"
+            },
+            {
+              "safety": "0.96"
+            },
+            {
+              "drop": "0.96"
+            },
+            {
+              "upward": "0.64"
+            }
+          ],
+          "Probability": "13.42"
+        }
+      ],
+      "RepresentativeComplaints": [
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY.  THE CONTACT STATED THAT THE STRUTS WERE FOUND TO BE LEAKING. THE VEHICLE WAS TAKEN TO THE DEALER TO HAVE A DIAGNOSTIC PERFORMED THAT CONFIRMED THE STRUTS WAS LEAKING HOWEVER, THE DEALER ADVISED THAT THE STRUTS DI",
+          "Date": "Tue Oct 01 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "I TOOK MY 2007 CAMRY LE (~30K MILEAGE) IN FOR 5K MILE SERVICE (VIA MY TOYOTA PREPAID MAINTENANCE CONTRACT 4 YR\/55K.) & TECHNICIAN FOUND A LEAKING FRONT STRUT. I WAS TOLD THAT I'LL HAVE TO REPLACE THE STRUT & DO THE ALIGNMENT FOR ~$1100 FROM MY OWN POCKET.",
+          "Date": "Fri Jun 08 00:00:00 EDT 2012"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE FRONT DRIVER縎 DOOR CAUGHT ON FIRE WHILE DRIVING. THE VEHICLE WAS TOWED TO AN AUTHORIZED DEALER AND THE DEALER STATED THAT THE ELECTRONIC CIRCUITS ON THE DOOR CAUSED THE FAILURE. THE VEH",
+          "Date": "Wed Mar 31 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE FRONT DRIVER縎 DOOR CAUGHT ON FIRE WHILE DRIVING. THE VEHICLE WAS TOWED TO AN AUTHORIZED DEALER AND THE DEALER STATED THAT THE ELECTRONIC CIRCUITS ON THE DOOR CAUSED THE FAILURE. THE VEH",
+          "Date": "Wed Mar 31 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE FRONT DRIVER縎 DOOR CAUGHT ON FIRE WHILE DRIVING. THE VEHICLE WAS TOWED TO AN AUTHORIZED DEALER AND THE DEALER STATED THAT THE ELECTRONIC CIRCUITS ON THE DOOR CAUSED THE FAILURE. THE VEH",
+          "Date": "Wed Mar 31 00:00:00 EDT 2010"
+        },
+        {
+          "Description": "I TOOK THE CAR IN FOR STATE INSPECTION AND WAS TOLD MY FRONT STRUTS ARE LEAKING AND NEED TO BE REPLACED. I'M NOT SURE EXACTLY WHEN THE LEAKING STARTED, BUT A STRUT SHOULDN'T BE LEAKING WITH THAT FEW MILES ON IT.   *TR",
+          "Date": "Fri Mar 29 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "I DRIVE A 2007 CAMRY SE WHICH HAS A KNOWN ISSUE FOR STRUT LEAKAGE FROM WHAT INFO I AM GETTING FROM OTHER OWNERS OF THE SAME VEHICLE YET TOYOTA CLAIMS THAT IT IS \"NORMAL\" FOR A STRUT TO LEAK. I HAVEN'T HAD THAT EXPLANATION FROM ANY OTHER CAR MANUFACTURER I",
+          "Date": "Wed Mar 20 00:00:00 EDT 2013"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT THE STRUTS WERE LEAKING. THE CONTACT TOOK THE VEHICLE TO A LOCAL MECHANIC FOR DIAGNOSTIC TESTING. THE MECHANIC DID NOT ADVISE AS TO WHAT CAUSED THE STRUTS TO LEAK. THE VEHICLE WAS NOT REPAI",
+          "Date": "Wed Jan 11 00:00:00 EST 2012"
+        },
+        {
+          "Description": "TL* THE CONTACT OWNS A 2007 TOYOTA CAMRY. THE CONTACT STATED THAT ALL FOUR STRUTS LEAKED AND HAD TO BE REPLACED AT 35,000 MILES. THE CONTACT STATED THAT THE STRUTS WERE LEAKING AGAIN AND NEEDED TO BE REPLACED. THE MANUFACTURER WAS NOT WILLING TO REPLACE T",
+          "Date": "Mon Feb 06 00:00:00 EST 2012"
+        },
+        {
+          "Description": "FEBRUARY 5, 2010    RE: LEAKY STRUTS ON TOYOTA CAMRY       I HAVE PURCHASED MY 2007 TOYOTA CAMRY FROM DCH TOYOTA DEALERSHIP IN SIMI VALLEY.  I HAVE BEEN INFORMED BY 2 CERTIFIED MECHANICS OUTSIDE OF THE DEALERSHIP THAT MY STRUTS WERE LEAKING.  THEY FOUND T",
+          "Date": "Fri Feb 05 00:00:00 EST 2010"
+        }
+      ],
+      "ComponentTopic": [
+        {
+          "strut": "49.44"
+        },
+        {
+          "door": "15.86"
+        },
+        {
+          "front": "13.99"
+        },
+        {
+          "auto": "4.67"
+        },
+        {
+          "circuit": "2.80"
+        }
+      ],
+      "ResolutionTopicList": [
+        {
+          "Words": [
+            {
+              "strut": "10.74"
+            },
+            {
+              "leak": "10.25"
+            },
+            {
+              "front": "8.54"
+            },
+            {
+              "inform": "7.08"
+            },
+            {
+              "consumer": "4.15"
+            },
+            {
+              "mat": "3.66"
+            },
+            {
+              "routine": "3.17"
+            },
+            {
+              "bring": "2.68"
+            },
+            {
+              "end": "2.44"
+            },
+            {
+              "floor": "2.44"
+            },
+            {
+              "tow": "2.20"
+            },
+            {
+              "accelerate": "1.71"
+            },
+            {
+              "exit": "1.46"
+            },
+            {
+              "level": "1.46"
+            },
+            {
+              "line": "1.46"
+            },
+            {
+              "windshield": "1.46"
+            },
+            {
+              "know": "1.22"
+            },
+            {
+              "tsb": "1.22"
+            },
+            {
+              "burn": "1.22"
+            },
+            {
+              "cross": "0.98"
+            }
+          ],
+          "Probability": "34.56"
+        },
+        {
+          "Words": [
+            {
+              "mechanic": "11.37"
+            },
+            {
+              "check": "8.59"
+            },
+            {
+              "tire": "7.20"
+            },
+            {
+              "inspection": "6.04"
+            },
+            {
+              "oil": "5.34"
+            },
+            {
+              "acceleration": "5.11"
+            },
+            {
+              "test": "4.64"
+            },
+            {
+              "unable": "4.64"
+            },
+            {
+              "fail": "3.25"
+            },
+            {
+              "independent": "2.79"
+            },
+            {
+              "experience": "1.86"
+            },
+            {
+              "leave": "1.86"
+            },
+            {
+              "pass": "1.63"
+            },
+            {
+              "transmission": "1.39"
+            },
+            {
+              "lack": "1.16"
+            },
+            {
+              "explain": "1.16"
+            },
+            {
+              "panel": "1.16"
+            },
+            {
+              "shaft": "0.93"
+            },
+            {
+              "steering": "0.93"
+            },
+            {
+              "recommend": "0.93"
+            }
+          ],
+          "Probability": "12.42"
+        }
+      ],
+      "Probability": "6.76"
+    }
+  ]
+}
